@@ -1,0 +1,1397 @@
+﻿Log file open, 02/14/22 12:40:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PowerPlant_Base
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.243254
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OSC
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Levels/PP_Clouds -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" alt+enter -windowed -ResX=3840 -ResY=2160 -ForceRes
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:445][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:450][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:450][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.14-11.40.21:450][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.14-11.40.21:450][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:450][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.14-11.40.21:451][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.14-11.40.21:452][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.14-11.40.21:452][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.14-11.40.21:452][  0]LogHAL: Display: Platform has ~ 16 GB [17115820032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.14-11.40.21:452][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.14-11.40.21:452][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.14-11.40.21:453][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Editor.ini]
+[2022.02.14-11.40.21:454][  0]LogInit: Computer: PC_MATERIEL_NET
+[2022.02.14-11.40.21:454][  0]LogInit: User: VR
+[2022.02.14-11.40.21:454][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.14-11.40.21:454][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.14-11.40.21:454][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.14-11.40.21:454][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.14-11.40.21:454][  0]LogMemory: Process Physical Memory: 136.75 MB used, 136.76 MB peak
+[2022.02.14-11.40.21:454][  0]LogMemory: Process Virtual Memory: 118.71 MB used, 118.71 MB peak
+[2022.02.14-11.40.21:454][  0]LogMemory: Physical Memory: 7104.79 MB used,  9218.13 MB free, 16322.92 MB total
+[2022.02.14-11.40.21:454][  0]LogMemory: Virtual Memory: 134209184.00 MB used,  8541.32 MB free, 134217728.00 MB total
+[2022.02.14-11.40.21:460][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.14-11.40.21:504][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.14-11.40.21:505][  0]LogInit: Using OS detected language (fr-FR).
+[2022.02.14-11.40.21:505][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.02.14-11.40.21:509][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.02.14-11.40.21:514][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.02.14-11.40.21:525][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.14-11.40.21:541][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.14-11.40.21:541][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.14-11.40.21:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.14-11.40.21:553][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.14-11.40.21:554][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.14-11.40.21:554][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.14-11.40.21:646][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2022.02.14-11.40.21:646][  0]LogD3D11RHI:       8079/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.14-11.40.21:648][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.14-11.40.21:648][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.14-11.40.21:648][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.14-11.40.21:653][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.14-11.40.21:653][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.14-11.40.21:653][  0]LogWindows: EnumDisplayDevices:
+[2022.02.14-11.40.21:653][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.02.14-11.40.21:653][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.14-11.40.21:654][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.14-11.40.21:654][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.14-11.40.21:654][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.14-11.40.21:654][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.02.14-11.40.21:654][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.02.14-11.40.21:654][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.02.14-11.40.21:654][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.02.14-11.40.21:702][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.14-11.40.21:702][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.14-11.40.21:702][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.14-11.40.21:720][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.14-11.40.21:721][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.14-11.40.21:998][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.14-11.40.22:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.14-11.40.22:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.14-11.40.22:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.14-11.40.22:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.14-11.40.22:023][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.14-11.40.22:119][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.14-11.40.22:119][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Intermediate/Shaders/WorkingDirectory/15096/).
+[2022.02.14-11.40.22:119][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VR/AppData/Local/Temp/UnrealShaderWorkingDir/618F211C496193B8F4ADC6B6AA1D1CDB/'.
+[2022.02.14-11.40.22:119][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.14-11.40.22:119][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.14-11.40.23:852][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: Loaded boot cache 0.08s 79MB C:/Users/VR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.14-11.40.23:935][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.14-11.40.23:952][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.14-11.40.23:953][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.14-11.40.23:953][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.14-11.40.23:963][  0]LogDerivedDataCache: Speed tests for C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.14-11.40.23:963][  0]LogDerivedDataCache: Display: Performance to C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=938.70MBs, RandomWriteSpeed=108.44MBs. Assigned SpeedClass 'Local'
+[2022.02.14-11.40.23:966][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.14-11.40.23:966][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.14-11.40.23:966][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.14-11.40.24:010][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.14-11.40.24:010][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.14-11.40.24:090][  0]LogInit: Using OS detected language (fr-FR).
+[2022.02.14-11.40.24:090][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.02.14-11.40.24:090][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2022.02.14-11.40.24:090][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2022.02.14-11.40.24:090][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.02.14-11.40.24:090][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.02.14-11.40.24:101][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.02.14-11.40.24:104][  0]LogAssetRegistry: FAssetRegistry took 0.0016 seconds to start up
+[2022.02.14-11.40.24:255][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.000917 seconds
+[2022.02.14-11.40.24:310][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.14-11.40.24:310][  0]LogInit: Active device profile: [0000025FF301CC00][0000025FE93E1340 49] Windows
+[2022.02.14-11.40.24:310][  0]LogInit: Profiles: [0000025FF301CC00][0000025FE93E1340 49] Windows, [0000025FF2FDDD00][0000025FEC263480 49] WindowsNoEditor, [0000025FF301F900][0000025FEC26B600 49] WindowsServer, [0000025FF2FDCF00][0000025FEC26F780 49] WindowsClient, [0000025FF301ED00][0000025FEC273900 49] IOS, [0000025FF2FDF100][0000025FEC277A80 49] iPadAir, [0000025FF301D000][0000025FEC27BC00 49] iPadAir2, [0000025FF2F92A00][0000025FEBF02200 49] IPadPro, [0000025FF2F92B00][0000025FEC27E240 49] iPadAir3, [0000025FF301EB00][0000025FEBF063C0 49] iPadAir4, [0000025FF2F92900][0000025FEBF0A540 49] iPadMini2, [0000025FF301F000][0000025FEBF0E6C0 49] iPadMini3, [0000025FF2F91A00][0000025FEBF12840 49] iPadMini4, [0000025FF301E100][0000025FEBF169C0 49] iPadMini5, [0000025FF2FAE300][0000025FEBF1EC80 49] iPhone6, [0000025FF2FAE400][0000025FEBF1ACC0 49] iPodTouch6, [0000025FF2FDC400][0000025FEBF26F80 49] iPhone7, [0000025FF2FDC300][0000025FEBF22FC0 49] iPodTouch7, [0000025FF2FAFB00][0000025FEC267100 49] iPhone5S, [0000025FF2FDE600][0000025FEBF2B240 49] iPhone6Plus, [0000025FF2FAD600][0000025FEBF2F380 49] iPhone6S, [0000025FF2FDFB00][0000025FEBF334C0 49] iPhone6SPlus, [0000025FF2FAC700][0000025FEBF3B640 49] iPhone7Plus, [0000025FF2FDD000][0000025FEBF3F7C0 49] iPhoneSE, [0000025FF2FAF300][0000025FE9DAB940 49] iPhone8, [0000025FF2FDD600][0000025FE9DAFAC0 49] iPhone8Plus, [0000025FF2FAC200][0000025FE9DB3C40 49] iPhoneX, [0000025FF2FDE800][0000025FE9DB6100 49] iPhoneXS, [0000025FF2FAEE00][0000025FE9DBA280 49] iPhoneXSMax, [0000025FF2FDD500][0000025FE9DBE400 49] iPhoneXR, [0000025FF2FACD00][0000025FE9DC2580 49] iPhone11, [0000025FF2FDEF00][0000025FE9DC6700 49] iPhone11Pro, [0000025FF2FAF100][0000025FE9DCA880 49] iPhone11ProMax, [0000025FF2FDF200][0000025FE9DCEA00 49] iPhoneSE2, [0000025FF2FAEC00][0000025FE9DD2B80 49] iPhone12Mini, [0000025FF2FDC200][0000025FE9DD6D00 49] iPhone12, [0000025FF2FAEB00][0000025FE9DDAE80 49] iPhone12Pro, [0000025FF2FDC100][0000025FE9DDF000 49] iPhone12ProMax, [0000025FF301C700][0000025FE9DE3180 49] iPadPro105, [0000025FF2FADC00][0000025FEBF372C0 49] iPadPro129, [0000025FF301F300][0000025FE9DE7400 49] iPadPro97, [0000025FF2FADE00][0000025FE9DEB540 49] iPadPro2_129, [0000025FF301C100][0000025FE9DF36C0 49] iPad5, [0000025FF2FAED00][0000025FE9DF7840 49] iPad6, [0000025FF2FDF500][0000025FE9DFB9C0 49] iPad7, [0000025FF2FAD500][0000025FE9DFFB40 49] iPad8, [0000025FF2FDF900][0000025FE9E03CC0 49] iPadPro11, [0000025FF2FAEA00][0000025FE9E06180 49] iPadPro2_11, [0000025FF2FDE000][0000025FE9E0A300 49] iPadPro3_129, [0000025FF2FAD900][0000025FE9E0E480 49] iPadPro4_129, [0000025FF2FDDE00][0000025FE9E12600 49] AppleTV, [0000025FF2FAFC00][0000025FE9E16780 49] AppleTV4K, [0000025FF2FDF300][0000025FE9E1A900 49] TVOS, [0000025FF2FAC100][0000025FE9E1EA80 49] Mac, [0000025FF2FDDF00][0000025FE9E22C00 49] MacClient, [0000025FF2FAD200][0000025FE9E26D80 49] MacNoEditor, [0000025FF2FDDA00][0000025FE9E2AF00 49] MacServer, [0000025FF2FACC00][0000025FE9E2F080 49] Linux, [0000025FF2FDD300][0000025FE9E33200 49] LinuxAArch64, [0000025FF2FADD00][0000025FE9DEF340 49] LinuxNoEditor, [0000025FF2FDFD00][0000025FE9E37480 49] LinuxAArch64NoEditor, [0000025FF2FAFA00][0000025FE9E3B5C0 49] LinuxClient, [0000025FF2FDEE00][0000025FE9E3F700 49] LinuxAArch64Client, [0000025FF2FAD000][0000025FE9E47880 49] LinuxServer, [0000025FF2FDF400][0000025FE9E4BA00 49] LinuxAArch64Server, [0000025FF2FAF200][0000025FE9703B80 49] Android, [0000025FF2FDFF00][0000025FE9707D00 49] Android_Low, [0000025FF2FADB00][0000025FE970A1C0 49] Android_Mid, [0000025FF2FDD100][0000025FE970E340 49] Android_High, [0000025FF2FAC800][0000025FE97124C0 49] Android_Default, [0000025FF2FDE300][0000025FE9716640 49] Android_Adreno4xx, [0000025FF2FACF00][0000025FE971A7C0 49] Android_Adreno5xx_Low, [0000025FF2FDC800][0000025FE971E940 49] Android_Adreno5xx, [0000025FF2FAF400][0000025FE9722AC0 49] Android_Adreno6xx, [0000025FF2FDD800][0000025FE9726C40 49] Android_Adreno6xx_Vulkan, [0000025FF2FAE100][0000025FE972ADC0 49] Android_Mali_T6xx, [0000025FF2FDE100][0000025FE972EF40 49] Android_Mali_T7xx, [0000025FF2FAF700][0000025FE97330C0 49] Android_Mali_T8xx, [0000025FF2FDC900][0000025FE9737240 49] Android_Mali_G71, [0000025FF2FAFF00][0000025FE9E43380 49] Android_Mali_G72, [0000025FF2FDF700][0000025FE973B4C0 49] Android_Mali_G72_Vulkan, [0000025FF2FAC900][0000025FE973F600 49] Android_Mali_G76, [0000025FF2FDE200][0000025FE9743740 49] Android_Mali_G76_Vulkan, [0000025FF2FAC500][0000025FE974B8C0 49] Android_Mali_G77, [0000025FF2FDC500][0000025FE974FA40 49] Android_Mali_G77_Vulkan, [0000025FF2FAD300][0000025FE9753BC0 49] Android_Vulkan_SM5, [0000025FF2F92000][0000025FE9757D40 49] Android_PowerVR_G6xxx, [0000025FF301C800][0000025FE975A200 49] Android_PowerVR_GT7xxx, [0000025FF2F90900][0000025FE975E380 49] Android_PowerVR_GE8xxx, [0000025FF301F100][0000025FE9762500 49] Android_PowerVR_GM9xxx, [0000025FF2F92400][0000025FE9766680 49] Android_PowerVR_GM9xxx_Vulkan, [0000025FF301E700][0000025FE976A800 49] Android_TegraK1, [0000025FF2F93000][0000025FE976E980 49] Android_Unknown_Vulkan, [0000025FF301E500][0000025FE9772B00 49] Lumin, [0000025FF2F90700][0000025FE9776C80 49] Lumin_Desktop, [0000025FF301E200][0000025FE977AE00 49] HoloLens, 
+[2022.02.14-11.40.24:344][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.14-11.40.24:344][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.14-11.40.24:344][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.14-11.40.24:344][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.14-11.40.24:344][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.14-11.40.24:463][  0]LogNetVersion: PowerPlant_Base 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1680946027)
+[2022.02.14-11.40.24:848][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.14-11.40.24:942][  0]LogMoviePlayer: Initializing movie player
+[2022.02.14-11.40.25:264][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.14-11.40.25:270][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.14-11.40.25:349][  0]SourceControl: Source control is disabled
+[2022.02.14-11.40.25:350][  0]SourceControl: Source control is disabled
+[2022.02.14-11.40.25:355][  0]SourceControl: Source control is disabled
+[2022.02.14-11.40.25:365][  0]LogUProjectInfo: Found projects:
+[2022.02.14-11.40.25:379][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.14-11.40.25:380][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.14-11.40.25:473][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.14-11.40.25:509][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.14-11.40.25:509][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.14-11.40.25:624][  0]LogOcInput: OculusInput pre-init called
+[2022.02.14-11.40.25:631][  0]LogUObjectArray: 20313 objects as part of root set at end of initial load.
+[2022.02.14-11.40.25:631][  0]LogUObjectAllocator: 5408224 out of 0 bytes used by permanent object pool.
+[2022.02.14-11.40.25:631][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.14-11.40.25:668][  0]LogEngine: Initializing Engine...
+[2022.02.14-11.40.25:669][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.14-11.40.25:669][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.14-11.40.25:670][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.14-11.40.25:764][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.14-11.40.25:764][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.14-11.40.25:767][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.14-11.40.25:767][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.14-11.40.25:768][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.14-11.40.25:768][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.14-11.40.25:768][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.14-11.40.25:779][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.14-11.40.25:779][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.14-11.40.25:829][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek High Definition Audio)
+[2022.02.14-11.40.25:834][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.14-11.40.25:836][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.14-11.40.25:836][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.14-11.40.25:839][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.14-11.40.25:839][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.14-11.40.25:839][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.14-11.40.25:840][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.14-11.40.25:840][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.14-11.40.25:840][  0]LogInit: FAudioDevice initialized.
+[2022.02.14-11.40.25:842][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.14-11.40.25:842][  0]LogInit: Texture streaming: Enabled
+[2022.02.14-11.40.25:943][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.14-11.40.25:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.14-11.40.25:945][  0]LogInit: Display: Game Engine Initialized.
+[2022.02.14-11.40.25:945][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.02.14-11.40.26:049][  0]LogInit: Display: Starting Game.
+[2022.02.14-11.40.26:049][  0]LogNet: Browse: /Game/Levels/PP_Clouds?Name=Player
+[2022.02.14-11.40.26:049][  0]LogLoad: LoadMap: /Game/Levels/PP_Clouds?Name=Player
+[2022.02.14-11.40.26:049][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.02.14-11.40.26:051][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-11.40.26:051][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-11.40.26:054][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-11.40.26:056][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.02.14-11.40.26:203][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Clouds'.
+[2022.02.14-11.40.26:208][  0]LogAIModule: Creating AISystem for world PP_Clouds
+[2022.02.14-11.40.26:209][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2022.02.14-11.40.26:209][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2022.02.14-11.40.26:209][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_GameMode.BP_GameMode_C'
+[2022.02.14-11.40.26:209][  0]LogLoad: Game class is 'GameModeBase'
+[2022.02.14-11.40.26:211][  0]LogWorld: Bringing World /Game/Levels/PP_Clouds.PP_Clouds up for play (max tick rate 0) at 2022.02.14-12.40.26
+[2022.02.14-11.40.26:217][  0]LogWorld: Bringing up level for play took: 0.006562
+[2022.02.14-11.40.26:217][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.14-11.40.26:221][  0]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.14-11.40.26:222][  0]LogOSC: Display: OSCServer 'OSCServer_XcnV5Yh40EOxjmS1RHMbYQ' Listening: 0.0.0.0:55551.
+[2022.02.14-11.40.26:224][  0]LogLoad: Took 0.174853 seconds to LoadMap(/Game/Levels/PP_Clouds)
+[2022.02.14-11.40.26:296][  0]LogRenderer: Reallocating scene render targets to support 3840x2160 Format 10 NumSamples 1 (Frame:1).
+[2022.02.14-11.40.26:296][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.14-11.40.26:296][  0]LogLoad: (Engine Initialization) Total time: 5.98 seconds
+[2022.02.14-11.40.26:297][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.14-11.40.26:297][  0]LogInit: First time updating LLM stats...
+[2022.02.14-11.40.26:311][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.14-11.40.26:313][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-11.40.27:240][ 86]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.14-11.40.27:240][ 86]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.14-11.40.27:241][ 86]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.14-11.40.27:262][ 89]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:90).
+[2022.02.14-11.40.28:330][425]LogNet: Browse: /Game/Levels/PP_Clouds
+[2022.02.14-11.40.28:330][425]LogLoad: LoadMap: /Game/Levels/PP_Clouds
+[2022.02.14-11.40.28:330][425]LogWorld: BeginTearingDown for /Game/Levels/PP_Clouds
+[2022.02.14-11.40.28:330][425]LogWorld: UWorld::CleanupWorld for PP_Clouds, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-11.40.28:330][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-11.40.28:361][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-11.40.28:373][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.02.14-11.40.28:554][425]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Clouds'.
+[2022.02.14-11.40.28:555][425]LogAIModule: Creating AISystem for world PP_Clouds
+[2022.02.14-11.40.28:556][425]LogLoad: Game class is 'GameModeBase'
+[2022.02.14-11.40.28:557][425]LogWorld: Bringing World /Game/Levels/PP_Clouds.PP_Clouds up for play (max tick rate 0) at 2022.02.14-12.40.28
+[2022.02.14-11.40.28:558][425]LogWorld: Bringing up level for play took: 0.000778
+[2022.02.14-11.40.28:558][425]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.14-11.40.28:558][425]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.14-11.40.28:559][425]LogOSC: Display: OSCServer 'OSCServer_NaAfU0cJJUq4Ho1DnLQKAw' Listening: 0.0.0.0:55551.
+[2022.02.14-11.40.28:560][425]LogLoad: Took 0.229726 seconds to LoadMap(/Game/Levels/PP_Clouds)
+[2022.02.14-11.40.31:276][353]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:298][360]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:325][369]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:346][376]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:374][385]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:416][399]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:449][410]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:489][423]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:523][434]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:556][445]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:591][456]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:622][466]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:653][476]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:693][489]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:720][498]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:748][507]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:783][518]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:810][527]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:844][538]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:875][548]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:912][560]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:946][571]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.31:981][582]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:016][593]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:051][604]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:089][616]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:127][628]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:167][641]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:207][654]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:248][667]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:292][681]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:340][696]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:374][707]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:418][721]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:466][736]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:510][750]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:555][764]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:600][778]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:643][791]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:683][804]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:725][817]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:761][828]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:799][840]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:836][851]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:871][862]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:903][872]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:933][881]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:962][890]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.32:993][899]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:022][908]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:053][917]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:079][925]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:109][934]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:138][943]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:164][951]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:186][958]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:209][965]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:235][973]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:258][980]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:284][988]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:310][996]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:337][  4]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:360][ 11]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:383][ 18]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:403][ 24]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:439][ 35]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:459][ 41]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:479][ 47]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:506][ 55]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:527][ 61]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:550][ 68]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:569][ 74]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:592][ 81]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:609][ 86]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:632][ 93]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:653][ 99]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:674][105]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:694][111]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:714][117]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:730][122]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:750][128]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:773][135]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:793][141]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:810][146]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:830][152]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:850][158]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:867][163]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:888][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:908][175]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:928][181]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:947][187]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:968][193]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.33:984][198]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:005][204]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:025][210]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:042][215]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:059][220]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:080][226]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:098][231]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:117][237]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:138][243]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:161][250]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:178][255]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:198][261]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:219][267]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:239][273]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:260][279]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:277][284]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:295][289]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:316][295]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:337][301]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:351][305]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:371][311]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:388][316]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:408][322]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:425][327]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:442][332]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:466][339]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:480][343]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:501][349]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:519][354]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:542][361]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:559][366]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:577][371]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:597][377]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:615][382]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:632][387]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:653][393]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:679][400]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:693][404]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:710][409]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:727][414]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:745][419]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:765][425]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:787][431]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:804][436]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:822][441]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:843][447]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:860][452]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:881][458]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:899][463]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:915][468]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:937][474]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:958][480]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:979][486]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.34:996][491]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:015][496]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:033][501]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:054][507]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:072][512]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:089][517]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:107][522]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:128][528]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:146][533]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:164][538]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:182][543]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:200][548]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:221][554]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:242][560]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:259][565]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:277][570]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:294][575]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:312][580]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:333][586]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:363][594]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:370][596]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:388][601]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:409][607]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:427][612]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:445][617]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:462][622]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:480][627]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:501][633]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:522][639]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:540][644]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:559][649]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:576][654]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:597][660]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:619][666]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:636][671]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:658][677]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:676][682]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:694][687]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:712][692]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:730][697]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:748][702]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:766][707]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:787][713]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:805][718]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:831][725]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:845][729]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:860][733]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:877][738]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:895][743]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:914][748]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:932][753]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:950][758]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:971][764]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.35:989][769]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:011][775]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:026][779]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:043][784]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:062][789]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:083][795]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:102][800]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:120][805]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:138][810]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:158][816]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:177][821]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:195][826]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:214][831]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:236][837]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:251][841]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:269][846]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:287][851]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:309][857]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:327][862]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:345][867]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:364][872]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:382][877]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:401][882]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:422][888]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:441][893]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:459][898]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:474][902]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:495][908]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:514][913]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:531][918]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:550][923]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:568][928]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:590][934]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:609][939]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:628][944]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:646][949]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:664][954]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:683][959]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:701][964]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:720][969]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:738][974]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:760][980]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:778][985]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:796][990]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:815][995]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:834][  0]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:852][  5]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:874][ 11]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:889][ 15]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:906][ 20]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:925][ 25]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:943][ 30]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:961][ 35]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:980][ 40]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.36:998][ 45]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:016][ 50]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:039][ 56]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:054][ 60]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:072][ 65]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:091][ 70]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:109][ 75]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:127][ 80]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:146][ 85]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:165][ 90]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:180][ 94]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:202][100]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:221][105]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:240][110]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:262][116]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:280][121]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:295][125]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:314][130]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:336][136]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:351][140]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:370][145]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:393][151]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:408][155]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:430][161]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:449][166]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:464][170]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:481][175]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:500][180]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:523][186]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:538][190]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:557][195]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:575][200]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:594][205]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:617][211]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:632][215]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:651][220]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:669][225]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:688][230]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:707][235]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:726][240]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:745][245]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:764][250]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:787][256]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:801][260]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:820][265]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:839][270]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:858][275]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:877][280]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:892][284]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:910][289]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:933][295]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:948][299]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:967][304]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.37:990][310]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:013][316]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:029][320]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:048][325]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:064][329]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:084][334]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:099][338]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:122][344]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:141][349]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:160][354]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:179][359]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:194][363]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:214][368]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:236][374]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:255][379]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:274][384]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:294][389]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:309][393]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:332][399]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:350][404]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:369][409]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:384][413]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:404][418]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:422][423]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:440][428]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:459][433]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:478][438]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:494][442]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:516][448]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:532][452]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:550][457]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:569][462]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:588][467]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:607][472]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:626][477]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:645][482]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:664][487]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:682][492]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:701][497]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:720][502]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:739][507]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:758][512]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:777][517]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:796][522]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:814][527]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:833][532]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:852][537]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:871][542]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:889][547]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:909][552]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:924][556]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:942][561]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:961][566]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:980][571]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.38:999][576]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:018][581]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:038][586]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:058][591]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:075][595]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:095][600]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:115][605]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:130][609]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:151][614]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:170][619]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:190][624]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:209][629]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:228][634]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:247][639]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:266][644]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:284][649]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:303][654]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:322][659]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:345][665]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:361][669]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:376][673]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:395][678]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:414][683]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:433][688]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:451][693]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:470][698]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:488][703]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:507][708]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:529][714]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:549][719]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:568][724]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:587][729]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:605][734]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:624][739]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:643][744]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:662][749]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:678][753]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:697][758]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:715][763]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:735][768]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:759][774]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:774][778]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:793][783]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:808][787]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:827][792]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:846][797]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:868][803]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:886][808]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:905][813]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:924][818]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:943][823]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:962][828]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.39:981][833]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:001][838]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:023][844]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:038][848]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:061][854]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:077][858]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:099][864]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:114][868]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:133][873]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:152][878]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:175][884]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:191][888]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:210][893]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:227][898]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:250][904]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:276][911]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:295][916]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:318][922]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:344][929]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:363][934]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:394][942]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:421][949]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:451][957]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:474][963]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:500][970]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:527][977]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:549][983]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:576][990]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:607][998]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:633][  5]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:660][ 12]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:690][ 20]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:720][ 28]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:750][ 36]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:780][ 44]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:815][ 53]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:845][ 61]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:883][ 71]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:915][ 80]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:953][ 90]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.40:991][100]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:030][110]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:064][119]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:099][128]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:133][137]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:168][146]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:198][154]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:232][163]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:266][172]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:299][181]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:330][189]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:364][198]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:394][206]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:425][214]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:456][222]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:483][229]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:513][237]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:540][244]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:571][252]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:594][258]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:616][264]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:643][271]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:665][277]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:688][283]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:715][290]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:738][296]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:757][301]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:780][307]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:799][312]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:826][319]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:845][324]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:868][330]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:891][336]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:910][341]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:933][347]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:951][352]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:974][358]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.41:992][363]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:011][368]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:030][373]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:049][378]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:076][385]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:091][389]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:110][394]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:126][398]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:149][404]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:164][408]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:186][414]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:205][419]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:224][424]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:243][429]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:263][434]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:282][439]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:301][444]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:320][449]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:339][454]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:358][459]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:376][464]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:399][470]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:414][474]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:433][479]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:456][485]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:475][490]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:491][494]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:510][499]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:529][504]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:548][509]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:571][515]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:586][519]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:609][525]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:624][529]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:643][534]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:658][538]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:681][544]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:696][548]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:731][557]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:745][561]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:764][566]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:793][573]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:815][579]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:838][585]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:861][591]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:892][599]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:915][605]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:942][612]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:968][619]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.42:999][627]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:026][634]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:052][641]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:075][647]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:106][655]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:129][661]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:155][668]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:182][675]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:205][681]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:232][688]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:258][695]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:296][705]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:323][712]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:346][718]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:381][727]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:400][732]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:426][739]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:461][748]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:477][752]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:507][760]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:530][766]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:557][773]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:584][780]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:607][786]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:638][794]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:661][800]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:687][807]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:714][814]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:741][821]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:767][828]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:790][834]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:817][841]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:840][847]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:863][853]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:889][860]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:909][865]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:931][871]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:962][879]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:977][883]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.43:996][888]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:023][895]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:042][900]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:060][905]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:080][910]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:099][915]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:121][921]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:140][926]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:159][931]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:175][935]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:194][940]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:213][945]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:235][951]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.14-11.40.44:346][956]LogPackageName: SearchForPackageOnDisk took   0.092s to resolve PP_Idle.umap.
+[2022.02.14-11.40.44:469][957]LogPackageName: SearchForPackageOnDisk took   0.121s to resolve PP_Idle.umap.
+[2022.02.14-11.40.44:469][957]LogNet: Browse: /Game/Levels/PP_Idle
+[2022.02.14-11.40.44:469][957]LogLoad: LoadMap: /Game/Levels/PP_Idle
+[2022.02.14-11.40.44:469][957]LogWorld: BeginTearingDown for /Game/Levels/PP_Clouds
+[2022.02.14-11.40.44:469][957]LogWorld: UWorld::CleanupWorld for PP_Clouds, bSessionEnded=true, bCleanupResources=true
+[2022.02.14-11.40.44:470][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-11.40.44:505][957]LogAudio: Display: Waited 35.453201 ms for audio thread.
+[2022.02.14-11.40.44:508][957]LogAudio: Display: Waited 38.621998 ms for audio thread.
+[2022.02.14-11.40.44:542][957]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.14-11.40.44:552][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.02.14-11.40.44:920][957]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Idle'.
+[2022.02.14-11.40.44:921][957]LogAIModule: Creating AISystem for world PP_Idle
+[2022.02.14-11.40.44:921][957]LogLoad: Game class is 'GameModeBase'
+[2022.02.14-11.40.44:945][957]LogWorld: Bringing World /Game/Levels/PP_Idle.PP_Idle up for play (max tick rate 0) at 2022.02.14-12.40.44
+[2022.02.14-11.40.44:948][957]LogWorld: Bringing up level for play took: 0.026254
+[2022.02.14-11.40.44:949][957]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.14-11.40.44:950][957]LogOSC: Display: OSCServer 'OSCServer_YMlcXp97YEGd9vOMvbgnAA' Listening: 0.0.0.0:55551.
+[2022.02.14-11.40.44:951][957]LogLoad: Took 0.482428 seconds to LoadMap(/Game/Levels/PP_Idle)
+[2022.02.14-11.40.44:953][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.14-11.40.45:969][959]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.008 s
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: 
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: Ensure condition failed: (FMath::Abs(1.f - M.GetScaledAxis(EAxis::X).SizeSquared()) <= (1.e-4f)) && (FMath::Abs(1.f - M.GetScaledAxis(EAxis::Y).SizeSquared()) <= (1.e-4f)) && (FMath::Abs(1.f - M.GetScaledAxis(EAxis::Z).SizeSquared()) <= (1.e-4f)) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Math/Quat.h] [Line: 613]
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: 
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: Stack: 
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ffa07bfb9b7 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ffa07520859 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ffa0756ca84 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d558abe7 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55da3fc UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55d8709 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55ae40d UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:969][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55adf27 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55b4b44 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9d55cea53 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9ce97b5ee UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd255f59 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd24cbd7 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9ccc05bad UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd1f4f13 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd1c918f UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd1de73d UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ff9cd1e2427 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa0739ecdc UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa0739f0ce UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa069aa5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa069b2c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa078f898b UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa078f1620 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.14-11.40.45:970][959]LogOutputDevice: Error: [Callstack] 0x00007ffa35667034 KERNEL32.DLL!UnknownFunction []
+[2022.02.14-11.40.45:971][959]LogOutputDevice: Error: [Callstack] 0x00007ffa357a2651 ntdll.dll!UnknownFunction []
+[2022.02.14-11.40.45:971][959]LogOutputDevice: Error: 
+[2022.02.14-11.40.45:971][959]LogStats:                SubmitErrorReport -  0.000 s

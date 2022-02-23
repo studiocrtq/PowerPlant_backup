@@ -1,0 +1,1410 @@
+﻿Log file open, 02/17/22 16:22:08
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PowerPlant_Base
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.244141
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OSC
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Levels/PP_Snow -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" alt+enter -windowed -ResX=3840 -ResY=2160 -ForceRes
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:867][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:905][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.17-15.22.08:905][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.17-15.22.08:906][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.17-15.22.08:907][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.17-15.22.08:907][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.17-15.22.08:907][  0]LogHAL: Display: Platform has ~ 16 GB [17115820032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.17-15.22.08:907][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.17-15.22.08:907][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Engine.ini]
+[2022.02.17-15.22.08:908][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Editor.ini]
+[2022.02.17-15.22.08:908][  0]LogInit: Computer: PC_MATERIEL_NET
+[2022.02.17-15.22.08:908][  0]LogInit: User: VR
+[2022.02.17-15.22.08:908][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.17-15.22.08:908][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.17-15.22.08:908][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.17-15.22.08:908][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.17-15.22.08:908][  0]LogMemory: Process Physical Memory: 140.31 MB used, 140.32 MB peak
+[2022.02.17-15.22.08:908][  0]LogMemory: Process Virtual Memory: 118.55 MB used, 118.55 MB peak
+[2022.02.17-15.22.08:908][  0]LogMemory: Physical Memory: 7020.29 MB used,  9302.63 MB free, 16322.92 MB total
+[2022.02.17-15.22.08:909][  0]LogMemory: Virtual Memory: 134208616.00 MB used,  9109.54 MB free, 134217728.00 MB total
+[2022.02.17-15.22.08:914][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.17-15.22.08:961][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.17-15.22.08:961][  0]LogInit: Using OS detected language (fr-FR).
+[2022.02.17-15.22.08:961][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.02.17-15.22.08:965][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2022.02.17-15.22.08:968][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2022.02.17-15.22.08:969][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2022.02.17-15.22.08:979][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.17-15.22.09:032][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.17-15.22.09:032][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.17-15.22.09:076][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.17-15.22.09:076][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.17-15.22.09:076][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.17-15.22.09:076][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.17-15.22.09:159][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2022.02.17-15.22.09:159][  0]LogD3D11RHI:       8079/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.17-15.22.09:161][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.17-15.22.09:161][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.17-15.22.09:161][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.17-15.22.09:166][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.17-15.22.09:166][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.17-15.22.09:166][  0]LogWindows: EnumDisplayDevices:
+[2022.02.17-15.22.09:166][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2022.02.17-15.22.09:166][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.17-15.22.09:166][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.17-15.22.09:167][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2022.02.17-15.22.09:167][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.02.17-15.22.09:167][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2022.02.17-15.22.09:167][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2022.02.17-15.22.09:167][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2022.02.17-15.22.09:167][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2022.02.17-15.22.09:218][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.17-15.22.09:219][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.17-15.22.09:219][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.17-15.22.09:233][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.17-15.22.09:235][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.17-15.22.09:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.17-15.22.09:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.17-15.22.09:535][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.17-15.22.09:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.17-15.22.09:543][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.17-15.22.09:548][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.17-15.22.09:602][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.17-15.22.09:602][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Intermediate/Shaders/WorkingDirectory/10372/).
+[2022.02.17-15.22.09:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VR/AppData/Local/Temp/UnrealShaderWorkingDir/B1CA64244C1548E3EDF8B6B32E7BBBAF/'.
+[2022.02.17-15.22.09:603][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.17-15.22.09:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.17-15.22.10:322][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: Loaded boot cache 0.05s 79MB C:/Users/VR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VR/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.17-15.22.10:373][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.17-15.22.10:385][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.17-15.22.10:385][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.17-15.22.10:385][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.17-15.22.10:392][  0]LogDerivedDataCache: Speed tests for C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.02.17-15.22.10:392][  0]LogDerivedDataCache: Display: Performance to C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1415.70MBs, RandomWriteSpeed=163.19MBs. Assigned SpeedClass 'Local'
+[2022.02.17-15.22.10:394][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VR/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.17-15.22.10:394][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.17-15.22.10:394][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.17-15.22.10:432][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.17-15.22.10:433][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.17-15.22.10:510][  0]LogInit: Using OS detected language (fr-FR).
+[2022.02.17-15.22.10:510][  0]LogInit: Using OS detected locale (fr-FR).
+[2022.02.17-15.22.10:510][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2022.02.17-15.22.10:510][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2022.02.17-15.22.10:511][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.02.17-15.22.10:511][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.02.17-15.22.10:521][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.02.17-15.22.10:523][  0]LogAssetRegistry: FAssetRegistry took 0.0015 seconds to start up
+[2022.02.17-15.22.10:678][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.000893 seconds
+[2022.02.17-15.22.10:732][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.17-15.22.10:732][  0]LogInit: Active device profile: [000002165D280C00][00000216564BDC80 49] Windows
+[2022.02.17-15.22.10:732][  0]LogInit: Profiles: [000002165D280C00][00000216564BDC80 49] Windows, [000002165D241D00][00000216564C4140 49] WindowsNoEditor, [000002165D283900][00000216566CC2C0 49] WindowsServer, [000002165D240F00][00000216566D0440 49] WindowsClient, [000002165D282D00][00000216566D45C0 49] IOS, [000002165D243100][00000216566D8740 49] iPadAir, [000002165D281000][00000216566DC8C0 49] iPadAir2, [000002165D1DEA00][00000216566E4B80 49] IPadPro, [000002165D1DEB00][00000216566E0BC0 49] iPadAir3, [000002165D282B00][00000216566E8D40 49] iPadAir4, [000002165D1DE900][00000216566ECEC0 49] iPadMini2, [000002165D283000][00000216566F1040 49] iPadMini3, [000002165D1DDA00][00000216564C1180 49] iPadMini4, [000002165D282100][00000216566F52C0 49] iPadMini5, [000002165D1FE300][00000216566FD500 49] iPhone6, [000002165D1FE400][00000216566F9540 49] iPodTouch6, [000002165D240400][000002165611F800 49] iPhone7, [000002165D240300][000002165611B840 49] iPodTouch7, [000002165D1FFB00][00000216561239C0 49] iPhone5S, [000002165D242600][0000021656127B40 49] iPhone6Plus, [000002165D1FD600][000002165612BCC0 49] iPhone6S, [000002165D243B00][000002165612E180 49] iPhone6SPlus, [000002165D1FC700][0000021656132300 49] iPhone7Plus, [000002165D241000][0000021656136480 49] iPhoneSE, [000002165D1FF300][000002165613A600 49] iPhone8, [000002165D241600][000002165613E780 49] iPhone8Plus, [000002165D1FC200][0000021656142900 49] iPhoneX, [000002165D242800][0000021656146A80 49] iPhoneXS, [000002165D1FEE00][000002165614AC00 49] iPhoneXSMax, [000002165D241500][000002165614ED80 49] iPhoneXR, [000002165D1FCD00][0000021656152F00 49] iPhone11, [000002165D242F00][0000021653FD3080 49] iPhone11Pro, [000002165D1FF100][00000216561171C0 49] iPhone11ProMax, [000002165D243200][0000021653FD7300 49] iPhoneSE2, [000002165D1FEC00][0000021653FDB440 49] iPhone12Mini, [000002165D240200][0000021653FDF580 49] iPhone12, [000002165D1FEB00][0000021653FE7700 49] iPhone12Pro, [000002165D240100][0000021653FEB880 49] iPhone12ProMax, [000002165D280700][0000021653FEFA00 49] iPadPro105, [000002165D1FDC00][0000021653FF3B80 49] iPadPro129, [000002165D283300][0000021653FF7D00 49] iPadPro97, [000002165D1FDE00][0000021653FFA1C0 49] iPadPro2_129, [000002165D280100][0000021653FFE340 49] iPad5, [000002165D1FED00][00000216540024C0 49] iPad6, [000002165D243500][0000021654006640 49] iPad7, [000002165D1FD500][000002165400A7C0 49] iPad8, [000002165D243900][000002165400E940 49] iPadPro11, [000002165D1FEA00][0000021654012AC0 49] iPadPro2_11, [000002165D242000][0000021654016C40 49] iPadPro3_129, [000002165D1FD900][000002165401ADC0 49] iPadPro4_129, [000002165D241E00][000002165401EF40 49] AppleTV, [000002165D1FFC00][00000216540230C0 49] AppleTV4K, [000002165D243300][0000021654027240 49] TVOS, [000002165D1FC100][0000021653FE3380 49] Mac, [000002165D241F00][000002165402B4C0 49] MacClient, [000002165D1FD200][000002165402F600 49] MacNoEditor, [000002165D241A00][0000021654037780 49] MacServer, [000002165D1FCC00][000002165403B900 49] Linux, [000002165D241300][000002165403FA80 49] LinuxAArch64, [000002165D1FDD00][0000021654043C00 49] LinuxNoEditor, [000002165D243D00][00000216540460C0 49] LinuxAArch64NoEditor, [000002165D1FFA00][000002165404A240 49] LinuxClient, [000002165D242E00][000002165404E3C0 49] LinuxAArch64Client, [000002165D1FD000][0000021654052540 49] LinuxServer, [000002165D243400][00000216540566C0 49] LinuxAArch64Server, [000002165D1FF200][000002165405A840 49] Android, [000002165D243F00][000002165405E9C0 49] Android_Low, [000002165D1FDB00][0000021654062B40 49] Android_Mid, [000002165D241100][0000021654066CC0 49] Android_High, [000002165D1FC800][000002165406AE40 49] Android_Default, [000002165D242300][000002165406EFC0 49] Android_Adreno4xx, [000002165D1FCF00][0000021654073140 49] Android_Adreno5xx_Low, [000002165D240800][00000216540772C0 49] Android_Adreno5xx, [000002165D1FF400][0000021654033400 49] Android_Adreno6xx, [000002165D241800][000002165407B540 49] Android_Adreno6xx_Vulkan, [000002165D1FE100][000002165407F680 49] Android_Mali_T6xx, [000002165D242100][00000216540837C0 49] Android_Mali_T7xx, [000002165D1FF700][000002165408B940 49] Android_Mali_T8xx, [000002165D240900][000002165408FAC0 49] Android_Mali_G71, [000002165D1FFF00][0000021654093C40 49] Android_Mali_G72, [000002165D243700][0000021654096100 49] Android_Mali_G72_Vulkan, [000002165D1FC900][000002165409A280 49] Android_Mali_G76, [000002165D242200][000002165409E400 49] Android_Mali_G76_Vulkan, [000002165D1FC500][00000216540A2580 49] Android_Mali_G77, [000002165D240500][00000216540A6700 49] Android_Mali_G77_Vulkan, [000002165D1FD300][00000216540AA880 49] Android_Vulkan_SM5, [000002165D1DE000][00000216540AEA00 49] Android_PowerVR_G6xxx, [000002165D280800][00000216540B2B80 49] Android_PowerVR_GT7xxx, [000002165D1DC900][00000216540B6D00 49] Android_PowerVR_GE8xxx, [000002165D283100][00000216540BAE80 49] Android_PowerVR_GM9xxx, [000002165D1DE400][00000216508B5000 49] Android_PowerVR_GM9xxx_Vulkan, [000002165D282700][00000216508B9180 49] Android_TegraK1, [000002165D1DF000][00000216508BD300 49] Android_Unknown_Vulkan, [000002165D282500][0000021654087440 49] Lumin, [000002165D1DC700][00000216508C1580 49] Lumin_Desktop, [000002165D282200][00000216508C56C0 49] HoloLens, 
+[2022.02.17-15.22.10:766][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.17-15.22.10:766][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.17-15.22.10:766][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.17-15.22.10:766][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.17-15.22.10:766][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.17-15.22.10:859][  0]LogNetVersion: PowerPlant_Base 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1680946027)
+[2022.02.17-15.22.11:108][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.17-15.22.11:197][  0]LogMoviePlayer: Initializing movie player
+[2022.02.17-15.22.11:457][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.17-15.22.11:460][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.17-15.22.11:496][  0]SourceControl: Source control is disabled
+[2022.02.17-15.22.11:496][  0]SourceControl: Source control is disabled
+[2022.02.17-15.22.11:498][  0]LogUProjectInfo: Found projects:
+[2022.02.17-15.22.11:505][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.17-15.22.11:505][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.02.17-15.22.11:568][  0]SourceControl: Source control is disabled
+[2022.02.17-15.22.11:589][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.17-15.22.11:604][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.17-15.22.11:604][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.17-15.22.11:646][  0]LogOcInput: OculusInput pre-init called
+[2022.02.17-15.22.11:652][  0]LogUObjectArray: 20313 objects as part of root set at end of initial load.
+[2022.02.17-15.22.11:652][  0]LogUObjectAllocator: 5408224 out of 0 bytes used by permanent object pool.
+[2022.02.17-15.22.11:652][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.17-15.22.11:687][  0]LogEngine: Initializing Engine...
+[2022.02.17-15.22.11:688][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.17-15.22.11:688][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.17-15.22.11:689][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.17-15.22.11:811][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.17-15.22.11:811][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.17-15.22.11:815][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.17-15.22.11:815][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.17-15.22.11:815][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.17-15.22.11:815][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.17-15.22.11:816][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.17-15.22.11:816][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.17-15.22.11:831][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.17-15.22.11:831][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.17-15.22.11:855][  0]LogAudioMixer: Display: Using Audio Device BMD HDMI (NVIDIA High Definition Audio)
+[2022.02.17-15.22.11:857][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.17-15.22.11:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.17-15.22.11:858][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.17-15.22.11:859][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.17-15.22.11:859][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.17-15.22.11:859][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.17-15.22.11:860][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.17-15.22.11:860][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.17-15.22.11:860][  0]LogInit: FAudioDevice initialized.
+[2022.02.17-15.22.11:861][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.17-15.22.11:861][  0]LogInit: Texture streaming: Enabled
+[2022.02.17-15.22.11:910][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.17-15.22.11:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.17-15.22.11:911][  0]LogInit: Display: Game Engine Initialized.
+[2022.02.17-15.22.11:911][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.02.17-15.22.11:971][  0]LogInit: Display: Starting Game.
+[2022.02.17-15.22.11:972][  0]LogNet: Browse: /Game/Levels/PP_Snow?Name=Player
+[2022.02.17-15.22.11:972][  0]LogLoad: LoadMap: /Game/Levels/PP_Snow?Name=Player
+[2022.02.17-15.22.11:972][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.02.17-15.22.11:973][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.17-15.22.11:973][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.11:977][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.17-15.22.11:978][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.02.17-15.22.12:782][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Snow'.
+[2022.02.17-15.22.12:789][  0]LogAIModule: Creating AISystem for world PP_Snow
+[2022.02.17-15.22.12:789][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2022.02.17-15.22.12:789][  0]LogUObjectGlobals: Warning: Failed to load '/Game/Blueprints/BP_GameMode': Can't find file.
+[2022.02.17-15.22.12:789][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/BP_GameMode.BP_GameMode_C'
+[2022.02.17-15.22.12:789][  0]LogLoad: Game class is 'GameModeBase'
+[2022.02.17-15.22.12:791][  0]LogWorld: Bringing World /Game/Levels/PP_Snow.PP_Snow up for play (max tick rate 0) at 2022.02.17-16.22.12
+[2022.02.17-15.22.12:796][  0]LogWorld: Bringing up level for play took: 0.005755
+[2022.02.17-15.22.12:798][  0]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.17-15.22.12:799][  0]LogOSC: Display: OSCServer 'OSCServer_9YTkzFd9FUCJEoYg-kRrmA' Listening: 0.0.0.0:55551.
+[2022.02.17-15.22.12:800][  0]LogLoad: Took 0.828737 seconds to LoadMap(/Game/Levels/PP_Snow)
+[2022.02.17-15.22.13:025][  0]LogRenderer: Reallocating scene render targets to support 3840x2160 Format 10 NumSamples 1 (Frame:1).
+[2022.02.17-15.22.13:025][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.17-15.22.13:025][  0]LogLoad: (Engine Initialization) Total time: 5.24 seconds
+[2022.02.17-15.22.13:025][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.17-15.22.13:025][  0]LogInit: First time updating LLM stats...
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:028][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:029][  0]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:029][  0]LogSlate: Took 0.000116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.17-15.22.13:030][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.17-15.22.13:032][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.13:105][  1]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:105][  1]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:105][  1]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:105][  1]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.17-15.22.13:131][  4]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:147][  5]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:177][  7]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:192][  8]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:220][ 10]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:250][ 12]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:281][ 14]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:295][ 15]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:323][ 17]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:351][ 19]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:365][ 20]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:392][ 22]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:419][ 24]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:446][ 26]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:460][ 27]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:487][ 29]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:502][ 30]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:529][ 32]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:543][ 33]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:569][ 35]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:595][ 37]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:609][ 38]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:636][ 40]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:650][ 41]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:678][ 43]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:691][ 44]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:718][ 46]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:732][ 47]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:745][ 48]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:772][ 50]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:784][ 51]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:809][ 53]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:834][ 55]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:847][ 56]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:872][ 58]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:895][ 60]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:908][ 61]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:953][ 65]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:954][ 65]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.13:977][ 67]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:002][ 69]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:013][ 70]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:036][ 72]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:060][ 74]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:083][ 76]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:107][ 78]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:119][ 79]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:143][ 81]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:167][ 83]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:190][ 85]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:214][ 87]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:237][ 89]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:260][ 91]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:283][ 93]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:295][ 94]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:331][ 97]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:353][ 99]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:366][100]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:390][102]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:413][104]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:436][106]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:460][108]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:483][110]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:495][111]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:511][112]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:535][114]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:558][116]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:570][117]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:593][119]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:616][121]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:628][122]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:651][124]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:674][126]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:698][128]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:711][129]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:744][132]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:756][133]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:779][135]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:803][137]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:826][139]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:850][141]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:873][143]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:897][145]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:922][147]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:945][149]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:968][151]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.14:993][153]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:028][156]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:053][158]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:076][160]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:100][162]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:123][164]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:146][166]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:170][168]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:181][169]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:205][171]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:230][173]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:253][175]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:277][177]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:300][179]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:312][180]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:335][182]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:359][184]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:371][185]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:394][187]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:417][189]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:441][191]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:464][193]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:487][195]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:511][197]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:523][198]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:546][200]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:569][202]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:592][204]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:615][206]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:639][208]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:651][209]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:676][211]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:699][213]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:711][214]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:735][216]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:758][218]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:782][220]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:807][222]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:829][224]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:842][225]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:865][227]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:888][229]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:900][230]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:924][232]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:947][234]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:970][236]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.15:981][237]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:006][239]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:029][241]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:053][243]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:064][244]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:087][246]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:111][248]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:312][249]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.17-15.22.16:312][249]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.17-15.22.16:312][249]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.17-15.22.16:312][249]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.17-15.22.16:312][249]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.17-15.22.16:313][249]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.02.17-15.22.16:313][249]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.17-15.22.16:313][249]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/VR/Dropbox/crtq_windows/Futur21/PowerPlant_Base/Saved/Config/Windows/Scalability.ini]
+[2022.02.17-15.22.16:313][249]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.17-15.22.16:314][249]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.17-15.22.16:314][249]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.17-15.22.16:329][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:329][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:330][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:330][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:330][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:330][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:330][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:331][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:331][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:331][249]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:335][251]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:253).
+[2022.02.17-15.22.16:335][251]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:372][254]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:389][255]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:406][259]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:431][266]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:449][271]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:471][277]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:494][283]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:516][289]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:538][295]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:556][300]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:575][305]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:600][312]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:619][318]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:642][325]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:668][333]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:688][339]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:708][345]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:732][352]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:755][359]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:777][366]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:797][372]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:823][380]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:840][385]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:866][393]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:886][399]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:905][405]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:931][413]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:951][419]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:971][425]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.16:991][431]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:014][438]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:037][445]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:057][450]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:080][457]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:104][464]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:130][472]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:147][477]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:177][486]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:197][492]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:220][499]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:243][506]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:266][513]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:289][520]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:312][527]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:341][536]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:361][542]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:399][553]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:423][560]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:449][568]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:473][575]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:507][585]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:527][591]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:554][599]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:577][606]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:607][615]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:630][622]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:657][630]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:686][639]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:710][646]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:737][654]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:760][661]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:786][669]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:813][677]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:853][689]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:883][698]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:903][704]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:922][710]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:942][716]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:959][721]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.17:982][728]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:002][734]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:021][740]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:042][746]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:062][752]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:085][759]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:105][765]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:126][771]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:152][779]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:169][784]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:192][791]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:218][799]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:234][804]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:258][811]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:281][818]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:304][825]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:324][831]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:345][837]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:369][844]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:394][851]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:418][858]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:444][866]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:548][870]LogPackageName: SearchForPackageOnDisk took   0.091s to resolve PP_Clouds.umap.
+[2022.02.17-15.22.18:549][870]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:549][870]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:549][870]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:549][870]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.18:641][871]LogPackageName: SearchForPackageOnDisk took   0.091s to resolve PP_Clouds.umap.
+[2022.02.17-15.22.18:641][871]LogNet: Browse: /Game/Levels/PP_Clouds
+[2022.02.17-15.22.18:641][871]LogLoad: LoadMap: /Game/Levels/PP_Clouds
+[2022.02.17-15.22.18:641][871]LogWorld: BeginTearingDown for /Game/Levels/PP_Snow
+[2022.02.17-15.22.18:641][871]LogWorld: UWorld::CleanupWorld for PP_Snow, bSessionEnded=true, bCleanupResources=true
+[2022.02.17-15.22.18:642][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.18:668][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.17-15.22.18:737][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.02.17-15.22.19:170][871]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Clouds'.
+[2022.02.17-15.22.19:171][871]LogAIModule: Creating AISystem for world PP_Clouds
+[2022.02.17-15.22.19:171][871]LogLoad: Game class is 'GameModeBase'
+[2022.02.17-15.22.19:173][871]LogWorld: Bringing World /Game/Levels/PP_Clouds.PP_Clouds up for play (max tick rate 0) at 2022.02.17-16.22.19
+[2022.02.17-15.22.19:175][871]LogWorld: Bringing up level for play took: 0.002536
+[2022.02.17-15.22.19:176][871]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.17-15.22.19:176][871]LogOSC: Display: OSCServer 'OSCServer_jtg3XdhnOESKp2rcaYHpNA' Listening: 0.0.0.0:55551.
+[2022.02.17-15.22.19:178][871]LogLoad: Took 0.536819 seconds to LoadMap(/Game/Levels/PP_Clouds)
+[2022.02.17-15.22.19:180][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.19:181][872]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.17-15.22.19:189][873]LogStaticMesh: Allocated 313x64x64 distance field atlas = 2.4Mb, with 22 objects containing 1.4Mb backing data
+[2022.02.17-15.22.19:195][873]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:211][876]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:246][885]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:254][887]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:277][893]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:296][898]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:315][903]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:334][908]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:353][913]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:373][918]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:399][925]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:422][931]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:451][939]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:475][946]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:495][952]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:516][958]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:536][964]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:557][970]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:577][976]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:597][982]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:628][991]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:648][997]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:671][  4]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:692][ 10]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:719][ 18]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:752][ 27]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:762][ 30]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:783][ 36]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:807][ 43]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:831][ 50]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:851][ 56]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:872][ 62]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:892][ 68]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:912][ 74]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:933][ 80]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:957][ 87]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.19:978][ 93]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:006][101]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:024][106]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:051][114]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:073][120]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:090][125]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:114][132]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:137][139]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:157][145]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:170][149]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:190][155]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:210][161]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:233][168]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:253][174]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:270][179]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:291][185]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:307][190]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:327][196]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:347][202]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:370][209]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:386][214]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:403][219]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:428][226]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:444][231]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:468][238]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:488][244]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:538][259]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:538][259]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:544][261]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:561][266]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:581][272]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:600][278]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:620][284]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:640][290]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:657][295]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:677][301]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:697][307]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:717][313]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:736][319]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:753][324]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:773][330]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:793][336]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:809][341]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:836][349]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:856][355]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:879][362]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:900][368]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:921][374]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:942][380]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:968][388]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.20:988][394]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:011][401]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:038][409]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:060][416]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:083][423]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:105][429]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:125][435]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:148][442]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:167][448]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:187][454]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:217][463]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:246][472]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:276][481]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:306][490]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:323][495]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:343][501]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:363][507]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:382][513]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:401][519]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:423][525]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.21:452][534]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:476][541]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:476][541]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:506][550]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:506][550]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:538][559]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:538][559]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:565][567]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:571][569]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:598][577]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:598][577]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:628][586]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:628][586]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:664][597]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:664][597]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:694][606]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:694][606]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:727][616]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:727][616]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:758][625]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:758][625]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:789][634]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:789][634]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:817][642]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:817][642]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:845][650]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:845][650]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:876][659]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:876][659]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:906][668]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:906][668]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:935][677]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:936][677]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.21:967][686]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.21:967][686]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:000][696]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:000][696]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:030][705]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:030][705]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:066][716]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:066][716]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:104][727]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:105][727]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:144][739]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:145][739]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:192][753]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:192][753]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:242][768]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:242][768]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:296][784]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:296][784]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:352][801]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:352][801]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:406][817]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:406][817]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:455][831]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:455][831]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:496][843]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:496][843]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:537][855]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:537][855]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:581][868]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:581][868]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:625][881]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:625][881]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:669][894]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:669][894]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:713][907]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:713][907]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:751][918]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:751][918]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:793][930]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:794][930]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:834][942]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:835][942]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:874][954]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:874][954]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:915][966]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:915][966]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:955][978]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:955][978]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.22:999][991]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.22:999][991]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:037][  2]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:037][  2]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:077][ 14]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:077][ 14]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:118][ 26]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:118][ 26]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:190][ 47]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:193][ 48]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:255][ 66]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:255][ 66]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:296][ 78]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:296][ 78]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:334][ 89]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:334][ 89]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:371][100]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:371][100]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:408][111]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:408][111]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:446][121]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:450][122]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:487][133]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:487][133]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:532][146]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:532][146]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:570][157]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:570][157]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:618][171]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:618][171]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:651][180]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:651][180]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:688][191]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:689][191]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:723][201]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:723][201]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:763][213]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:763][213]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:800][223]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:800][223]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:838][234]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:838][234]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:875][245]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:875][245]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:919][258]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:923][259]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:967][272]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:967][272]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.23:998][281]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.23:998][281]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.24:039][293]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:042][294]LogBlueprintUserMessages: [OSCReceiver_2] 1
+[2022.02.17-15.22.24:077][304]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:077][304]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:112][314]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:112][314]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:153][326]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:153][326]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:184][335]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:184][335]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:215][344]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:215][344]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:249][354]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:249][354]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:278][362]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:278][362]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:310][372]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:310][372]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:342][381]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:342][381]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:375][391]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:375][391]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:405][400]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:406][400]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:433][408]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:434][408]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:465][417]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:465][417]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:487][423]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:487][423]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:515][431]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:515][431]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:546][440]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:546][440]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:574][448]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:574][448]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:599][455]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:602][456]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:626][463]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:627][463]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:650][470]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:650][470]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:678][478]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:678][478]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:706][486]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:706][486]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:733][494]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:733][494]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:758][501]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:758][501]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:785][509]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:786][509]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:808][515]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:815][517]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:842][525]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:842][525]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:859][530]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:859][530]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:880][536]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:880][536]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:905][543]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:905][543]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:922][548]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:922][548]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:946][555]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:946][555]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:966][561]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:966][561]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.24:986][567]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.24:989][568]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:006][573]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:007][573]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:027][579]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:027][579]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:057][588]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:057][588]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:074][593]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:074][593]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:094][599]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:094][599]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:119][606]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:119][606]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:140][612]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:140][612]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:167][620]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:167][620]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:187][626]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:190][627]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:210][633]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:211][633]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:231][639]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:231][639]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:250][645]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:250][645]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:274][652]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:274][652]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:295][658]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.02.17-15.22.25:295][658]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:404][663]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve PP_Idle.umap.
+[2022.02.17-15.22.25:404][663]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:404][663]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:405][663]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:405][663]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:496][664]LogPackageName: SearchForPackageOnDisk took   0.090s to resolve PP_Idle.umap.
+[2022.02.17-15.22.25:496][664]LogNet: Browse: /Game/Levels/PP_Idle
+[2022.02.17-15.22.25:496][664]LogLoad: LoadMap: /Game/Levels/PP_Idle
+[2022.02.17-15.22.25:496][664]LogWorld: BeginTearingDown for /Game/Levels/PP_Clouds
+[2022.02.17-15.22.25:497][664]LogWorld: UWorld::CleanupWorld for PP_Clouds, bSessionEnded=true, bCleanupResources=true
+[2022.02.17-15.22.25:497][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.25:535][664]LogAudio: Display: Waited 38.110901 ms for audio thread.
+[2022.02.17-15.22.25:565][664]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.17-15.22.25:571][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.02.17-15.22.25:841][664]LogAudio: Display: Audio Device (ID: 1) registered with world 'PP_Idle'.
+[2022.02.17-15.22.25:842][664]LogAIModule: Creating AISystem for world PP_Idle
+[2022.02.17-15.22.25:842][664]LogLoad: Game class is 'GameModeBase'
+[2022.02.17-15.22.25:860][664]LogWorld: Bringing World /Game/Levels/PP_Idle.PP_Idle up for play (max tick rate 0) at 2022.02.17-16.22.25
+[2022.02.17-15.22.25:863][664]LogWorld: Bringing up level for play took: 0.019134
+[2022.02.17-15.22.25:863][664]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.02.17-15.22.25:864][664]LogOSC: Display: OSCServer 'OSCServer_44sQbd6izU2sYni_bWKqjA' Listening: 0.0.0.0:55551.
+[2022.02.17-15.22.25:865][664]LogLoad: Took 0.369544 seconds to LoadMap(/Game/Levels/PP_Idle)
+[2022.02.17-15.22.25:866][664]LogBlueprintUserMessages: [OSCReceiver_2] 0
+[2022.02.17-15.22.25:867][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-15.22.25:868][665]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.17-15.22.26:486][666]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.610 s
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: 
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: Ensure condition failed: (FMath::Abs(1.f - M.GetScaledAxis(EAxis::X).SizeSquared()) <= (1.e-4f)) && (FMath::Abs(1.f - M.GetScaledAxis(EAxis::Y).SizeSquared()) <= (1.e-4f)) && (FMath::Abs(1.f - M.GetScaledAxis(EAxis::Z).SizeSquared()) <= (1.e-4f)) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Math/Quat.h] [Line: 613]
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: 
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: Stack: 
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff933f1b9b7 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff933840859 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff93388ca84 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91243abe7 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91248a3fc UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff912488709 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91245e40d UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91245df27 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff912464b44 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91247ea53 UE4Editor-Niagara.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff92981b5ee UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff920435f59 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff92042cbd7 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff91fde5bad UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9203d4f13 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9203a918f UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9203be73d UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9203c2427 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9336becdc UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff9336bf0ce UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff936fda5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff936fe2c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff933c1898b UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff933c11620 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff980ff7034 KERNEL32.DLL!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: [Callstack] 0x00007ff982922651 ntdll.dll!UnknownFunction []
+[2022.02.17-15.22.26:486][666]LogOutputDevice: Error: 
+[2022.02.17-15.22.26:486][666]LogStats:                SubmitErrorReport -  0.000 s

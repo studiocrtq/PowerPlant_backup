@@ -1,0 +1,1428 @@
+﻿Log file open, 04/11/21 10:54:18
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: FX
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197410
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: G:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.11-05.24.19:096][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:097][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.11-05.24.19:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.11-05.24.19:133][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.11-05.24.19:133][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.11-05.24.19:133][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.11-05.24.19:134][  0]LogHAL: Display: Platform has ~ 32 GB [34270502912 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.11-05.24.19:134][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.11-05.24.19:134][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.11-05.24.19:134][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Scalability.ini]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.11-05.24.19:135][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ashif/Desktop/test/FX/Saved/Config/Windows/Engine.ini]
+[2021.04.11-05.24.19:135][  0]LogInit: Computer: DESKTOP-BG52PK5
+[2021.04.11-05.24.19:135][  0]LogInit: User: CGHOW
+[2021.04.11-05.24.19:135][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.04.11-05.24.19:135][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.11-05.24.19:135][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.04.11-05.24.19:135][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.11-05.24.19:135][  0]LogMemory: Process Physical Memory: 138.41 MB used, 138.41 MB peak
+[2021.04.11-05.24.19:136][  0]LogMemory: Process Virtual Memory: 112.48 MB used, 112.48 MB peak
+[2021.04.11-05.24.19:136][  0]LogMemory: Physical Memory: 11169.54 MB used,  21513.36 MB free, 32682.90 MB total
+[2021.04.11-05.24.19:136][  0]LogMemory: Virtual Memory: 134195272.00 MB used,  22454.71 MB free, 134217728.00 MB total
+[2021.04.11-05.24.19:140][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.11-05.24.19:191][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.11-05.24.19:192][  0]LogInit: Using OS detected language (en-US).
+[2021.04.11-05.24.19:192][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.11-05.24.19:194][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.11-05.24.19:336][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.11-05.24.19:347][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.11-05.24.19:380][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.11-05.24.19:380][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.11-05.24.19:532][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.11-05.24.19:532][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.11-05.24.19:532][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.11-05.24.19:532][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.11-05.24.19:632][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2021.04.11-05.24.19:632][  0]LogD3D11RHI:       8079/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.04.11-05.24.19:651][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.04.11-05.24.19:651][  0]LogD3D11RHI:       128/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.04.11-05.24.19:654][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.11-05.24.19:654][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.11-05.24.19:654][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.11-05.24.19:659][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.11-05.24.19:659][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2021.04.11-05.24.19:659][  0]LogWindows: EnumDisplayDevices:
+[2021.04.11-05.24.19:659][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2021.04.11-05.24.19:659][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.04.11-05.24.19:660][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.04.11-05.24.19:660][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2021.04.11-05.24.19:661][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2021.04.11-05.24.19:661][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.11-05.24.19:662][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.04.11-05.24.19:662][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.04.11-05.24.19:662][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2021.04.11-05.24.19:662][  0]LogD3D11RHI:   Driver Version: 461.92 (internal:27.21.14.6192, unified:461.92)
+[2021.04.11-05.24.19:662][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2021.04.11-05.24.19:662][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.04.11-05.24.19:733][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.11-05.24.19:733][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.11-05.24.19:733][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.11-05.24.19:749][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.04.11-05.24.19:750][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.04.11-05.24.20:065][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.11-05.24.20:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.11-05.24.20:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.11-05.24.20:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.11-05.24.20:108][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.11-05.24.20:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.11-05.24.20:122][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.11-05.24.20:127][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.11-05.24.20:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.11-05.24.20:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.11-05.24.20:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.11-05.24.20:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.11-05.24.20:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.11-05.24.20:172][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.11-05.24.20:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.11-05.24.20:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.11-05.24.20:193][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.11-05.24.20:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.11-05.24.20:205][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.11-05.24.20:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.11-05.24.20:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.11-05.24.20:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.11-05.24.20:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.11-05.24.20:231][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.11-05.24.20:236][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.11-05.24.20:281][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.11-05.24.20:281][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (C:/Users/Ashif/Desktop/test/FX/Intermediate/Shaders/WorkingDirectory/11176/).
+[2021.04.11-05.24.20:281][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ashif/AppData/Local/Temp/UnrealShaderWorkingDir/522FF5A54E30DBDE6F66AFAE656170FB/'.
+[2021.04.11-05.24.20:281][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.11-05.24.20:281][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.11-05.24.20:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: Loaded boot cache 0.05s 98MB C:/Users/Ashif/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ashif/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ashif/Desktop/test/FX/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ashif/Desktop/test/FX/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.11-05.24.21:009][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.11-05.24.21:019][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.11-05.24.21:019][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.11-05.24.21:019][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.11-05.24.21:024][  0]LogDerivedDataCache: Speed tests for C:/Users/Ashif/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2021.04.11-05.24.21:024][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ashif/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1057.91MBs, RandomWriteSpeed=260.82MBs. Assigned SpeedClass 'Local'
+[2021.04.11-05.24.21:025][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ashif/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.11-05.24.21:025][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.11-05.24.21:025][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.11-05.24.21:063][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.11-05.24.21:064][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.11-05.24.21:085][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2021.04.11-05.24.21:282][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.11-05.24.21:282][  0]LogInit: Active device profile: [00000232C75D6200][00000232C64B95C0 49] Windows
+[2021.04.11-05.24.21:282][  0]LogInit: Profiles: [00000232C75D6200][00000232C64B95C0 49] Windows, [00000232C75A2000][00000232C64BD700 49] WindowsNoEditor, [00000232C75D6000][00000232C64C1840 49] WindowsServer, [00000232C75A0200][00000232C64C5980 49] WindowsClient, [00000232C75D4300][00000232C64C9AC0 49] IOS, [00000232C75A3200][00000232C64E9C40 49] iPadAir, [00000232C75D6900][00000232C64EC100 49] iPadAir2, [00000232C8553C00][00000232C64F43C0 49] IPadPro, [00000232C8553D00][00000232C64F0400 49] iPadAir3, [00000232C75D5900][00000232C64F8580 49] iPadAir4, [00000232C8552600][00000232C64FC700 49] iPadMini2, [00000232C75D7A00][00000232C6E52880 49] iPadMini3, [00000232C8550E00][00000232C6E56A00 49] iPadMini4, [00000232C75D4900][00000232C6E5AB80 49] iPadMini5, [00000232C757F500][00000232C6E62E40 49] iPhone6, [00000232C757F600][00000232C6E5EE80 49] iPodTouch6, [00000232C8553700][00000232C6E6B140 49] iPhone7, [00000232C8553600][00000232C6E67180 49] iPodTouch7, [00000232C757E400][00000232C6E6F300 49] iPhone5S, [00000232C8551B00][00000232C6E73480 49] iPhone6Plus, [00000232C757CC00][00000232C6E77600 49] iPhone6S, [00000232C8550100][00000232C64E5740 49] iPhone6SPlus, [00000232C757EF00][00000232C6E7B880 49] iPhone7Plus, [00000232C8550F00][00000232C6E7F9C0 49] iPhoneSE, [00000232C757D100][00000232C6E83B00 49] iPhone8, [00000232C8550900][00000232C6E8BC80 49] iPhone8Plus, [00000232C757F700][00000232C6E8E140 49] iPhoneX, [00000232C8550D00][00000232C6E922C0 49] iPhoneXS, [00000232C757C800][00000232C6E96440 49] iPhoneXSMax, [00000232C8552900][00000232C6E9A5C0 49] iPhoneXR, [00000232C757FC00][00000232C6E9E740 49] iPhone11, [00000232C8553100][00000232C6EA28C0 49] iPhone11Pro, [00000232C757E300][00000232C6EA6A40 49] iPhone11ProMax, [00000232C8551C00][00000232C6EAABC0 49] iPhoneSE2, [00000232C757D700][00000232C6EAED40 49] iPhone12Mini, [00000232C8550C00][00000232C6EB2EC0 49] iPhone12, [00000232C757C100][00000232C6EB7040 49] iPhone12Pro, [00000232C8552C00][00000232C6EBB1C0 49] iPhone12ProMax, [00000232C757D400][00000232C6EBF340 49] iPadPro105, [00000232C8550600][00000232C6EC34C0 49] iPadPro129, [00000232C757FB00][00000232C6EC7640 49] iPadPro97, [00000232C8553200][00000232C6ECB7C0 49] iPadPro2_129, [00000232C757CE00][00000232C6E87900 49] iPad5, [00000232C8553400][00000232C6ECFA40 49] iPad6, [00000232C757CF00][00000232C6ED3B80 49] iPad7, [00000232C75A2C00][00000232C6EDBD00 49] iPad8, [00000232C8550B00][00000232C6EDE1C0 49] iPadPro11, [00000232C75A3400][00000232C6EE2340 49] iPadPro2_11, [00000232C8550500][00000232C6EE64C0 49] iPadPro3_129, [00000232C75A3900][00000232C6EEA640 49] iPadPro4_129, [00000232C8552F00][00000232C6EEE7C0 49] AppleTV, [00000232C75A3C00][00000232C6EF2940 49] AppleTV4K, [00000232C8553A00][00000232C6EF6AC0 49] TVOS, [00000232C75A3E00][00000232C6EFAC40 49] Mac, [00000232C8552300][00000232C6EFEDC0 49] MacClient, [00000232C757F900][00000232C6F02F40 49] MacNoEditor, [00000232C75A3600][00000232C6F070C0 49] MacServer, [00000232C757E900][00000232C6F0B240 49] Linux, [00000232C75A1600][00000232C6F0F3C0 49] LinuxNoEditor, [00000232C757C400][00000232C6F13540 49] LinuxAArch64NoEditor, [00000232C75A1100][00000232C6F176C0 49] LinuxClient, [00000232C757E000][00000232C6F1B840 49] LinuxAArch64Client, [00000232C75A3D00][00000232C6ED7980 49] LinuxServer, [00000232C757DE00][00000232C6F1FAC0 49] LinuxAArch64Server, [00000232C8553800][00000232C6F23C00 49] Android, [00000232C757CD00][00000232C6F2A0C0 49] Android_Low, [00000232C8552D00][00000232C6F2E240 49] Android_Mid, [00000232C757D900][00000232C6F323C0 49] Android_High, [00000232C8552400][00000232C6F36540 49] Android_Default, [00000232C757E500][00000232C6F3A6C0 49] Android_Adreno4xx, [00000232C8551000][00000232C6F3E840 49] Android_Adreno5xx_Low, [00000232C757D200][00000232C6F429C0 49] Android_Adreno5xx, [00000232C8551D00][00000232C6F46B40 49] Android_Adreno6xx, [00000232C757D000][00000232C6F4ACC0 49] Android_Adreno6xx_Vulkan, [00000232C8552800][00000232C6F4EE40 49] Android_Mali_T6xx, [00000232C757C300][00000232C6F52FC0 49] Android_Mali_T7xx, [00000232C8551E00][00000232C6F57140 49] Android_Mali_T8xx, [00000232C757CB00][00000232C6F5B2C0 49] Android_Mali_G71, [00000232C8552000][00000232C6F5F440 49] Android_Mali_G72, [00000232C757D800][00000232C6F635C0 49] Android_Mali_G72_Vulkan, [00000232C8551300][00000232C6F67740 49] Android_Mali_G76, [00000232C757E200][00000232C6F6B8C0 49] Android_Mali_G76_Vulkan, [00000232C8550700][00000232C6F27A00 49] Android_Mali_G77, [00000232C757E600][00000232C6F6FB40 49] Android_Mali_G77_Vulkan, [00000232C8551500][00000232C6F73C80 49] Android_Vulkan_SM5, [00000232C757F100][00000232C6F76100 49] Android_PowerVR_G6xxx, [00000232C8550300][00000232C6F7E280 49] Android_PowerVR_GT7xxx, [00000232C757C900][00000232C6F82400 49] Android_PowerVR_GE8xxx, [00000232C8551600][00000232C6F86580 49] Android_PowerVR_GM9xxx, [00000232C757FE00][00000232C6F8A700 49] Android_PowerVR_GM9xxx_Vulkan, [00000232C8551A00][00000232C6F8E880 49] Android_TegraK1, [00000232C757C600][00000232C6F92A00 49] Android_Unknown_Vulkan, [00000232C8552700][00000232C6F96B80 49] Lumin, [00000232C757F800][00000232C6F9AD00 49] Lumin_Desktop, [00000232C8552500][00000232C6F9EE80 49] HoloLens, 
+[2021.04.11-05.24.21:315][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.11-05.24.21:315][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.11-05.24.21:315][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.11-05.24.21:315][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.11-05.24.21:315][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.11-05.24.21:402][  0]LogNetVersion: FX 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 908173400)
+[2021.04.11-05.24.21:759][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.11-05.24.21:788][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.028345 seconds
+[2021.04.11-05.24.21:792][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.11-05.24.21:792][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.11-05.24.21:792][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.11-05.24.22:001][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.11-05.24.22:004][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.11-05.24.22:126][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.22:126][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.22:128][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.22:130][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.22:138][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.22:142][  0]LogUProjectInfo: Found projects:
+[2021.04.11-05.24.22:305][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.11-05.24.22:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.11-05.24.22:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.11-05.24.22:358][  0]LogCollectionManager: Loaded 0 collections in 0.000529 seconds
+[2021.04.11-05.24.22:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ashif/Desktop/test/FX/Saved/Collections/' took 0.00s
+[2021.04.11-05.24.22:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ashif/Desktop/test/FX/Content/Developers/CGHOW/Collections/' took 0.00s
+[2021.04.11-05.24.22:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ashif/Desktop/test/FX/Content/Collections/' took 0.00s
+[2021.04.11-05.24.22:376][  0]LogOcInput: OculusInput pre-init called
+[2021.04.11-05.24.22:384][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.11-05.24.22:384][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.11-05.24.22:422][  0]LogEngine: Initializing Engine...
+[2021.04.11-05.24.22:422][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.11-05.24.22:422][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.11-05.24.22:423][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.11-05.24.22:506][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.11-05.24.22:512][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.11-05.24.22:524][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.11-05.24.22:527][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.11-05.24.22:527][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.11-05.24.22:527][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.11-05.24.22:527][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.11-05.24.22:528][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.11-05.24.22:528][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.11-05.24.22:551][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.11-05.24.22:551][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.11-05.24.22:581][  0]LogAudioMixer: Display: Using Audio Device Speakers (USB2.0 Device)
+[2021.04.11-05.24.22:584][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.11-05.24.22:585][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.11-05.24.22:585][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.11-05.24.22:586][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.11-05.24.22:586][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.11-05.24.22:586][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.04.11-05.24.22:587][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.11-05.24.22:587][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.11-05.24.22:587][  0]LogInit: FAudioDevice initialized.
+[2021.04.11-05.24.22:587][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.11-05.24.22:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.11-05.24.22:661][  0]LogDerivedDataCache: Saved boot cache 0.07s 98MB C:/Users/Ashif/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.11-05.24.22:663][  0]LogInit: Texture streaming: Enabled
+[2021.04.11-05.24.22:672][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.04.11-05.24.22:677][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.11-05.24.22:677][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.11-05.24.22:687][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.11-05.24.22:706][  0]LogInit: Transaction tracking system initialized
+[2021.04.11-05.24.22:722][  0]BlueprintLog: New page: Editor Load
+[2021.04.11-05.24.22:769][  0]LocalizationService: Localization service is disabled
+[2021.04.11-05.24.22:785][  0]TimingProfiler: Initialize
+[2021.04.11-05.24.22:785][  0]TimingProfiler: OnSessionChanged
+[2021.04.11-05.24.22:785][  0]LoadingProfiler: Initialize
+[2021.04.11-05.24.22:785][  0]LoadingProfiler: OnSessionChanged
+[2021.04.11-05.24.22:785][  0]NetworkingProfiler: Initialize
+[2021.04.11-05.24.22:785][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.11-05.24.22:785][  0]MemoryProfiler: Initialize
+[2021.04.11-05.24.22:785][  0]MemoryProfiler: OnSessionChanged
+[2021.04.11-05.24.22:876][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.11-05.24.22:876][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.11-05.24.22:984][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ashif/Desktop/test/FX/Content/' took 0.00s
+[2021.04.11-05.24.23:151][  0]SourceControl: Source control is disabled
+[2021.04.11-05.24.23:151][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.770
+[2021.04.11-05.24.23:151][  0]Cmd: MAP LOAD FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/portal01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.11-05.24.23:151][  0]LogEditorServer: Warning: Can't find file 'C:/Users/Ashif/Desktop/test/FX/Content/Map/portal01.umap'
+[2021.04.11-05.24.23:151][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.11-05.24.23:151][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2021.04.11-05.24.23:151][  0]LogFileHelpers: Loading map 'portal01' took 0.000
+[2021.04.11-05.24.23:153][  0]LogUnrealEdMisc: Total Editor Startup Time, took 4.772
+[2021.04.11-05.24.23:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.11-05.24.23:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.11-05.24.23:313][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.11-05.24.23:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.11-05.24.23:332][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0073 seconds. Added 3601 classes and 859 folders.
+[2021.04.11-05.24.23:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.11-05.24.23:335][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.11-05.24.23:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.11-05.24.23:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.11-05.24.23:336][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:336][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.11-05.24.23:336][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.11-05.24.23:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.11-05.24.23:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.11-05.24.23:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.11-05.24.23:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.11-05.24.23:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:339][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.11-05.24.23:339][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.11-05.24.23:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:340][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.11-05.24.23:340][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.11-05.24.23:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.11-05.24.23:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.11-05.24.23:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.11-05.24.23:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.11-05.24.23:343][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.11-05.24.23:343][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:343][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.11-05.24.23:343][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.11-05.24.23:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:344][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.11-05.24.23:344][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.11-05.24.23:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.11-05.24.23:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.11-05.24.23:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:346][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.11-05.24.23:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.11-05.24.23:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.11-05.24.23:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.11-05.24.23:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.11-05.24.23:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.11-05.24.23:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.04.11-05.24.23:383][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.11-05.24.23:384][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.04.11-05.24.23:474][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.11-05.24.23:475][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.11-05.24.23:479][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.11-05.24.23:611][  0]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:1).
+[2021.04.11-05.24.23:692][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.04.11-05.24.23:692][  0]LogLoad: (Engine Initialization) Total time: 5.31 seconds
+[2021.04.11-05.24.23:692][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.11-05.24.23:692][  0]LogInit: First time updating LLM stats...
+[2021.04.11-05.24.23:720][  0]LogAssetRegistry: Asset discovery search completed in 2.6356 seconds
+[2021.04.11-05.24.23:721][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.04.11-05.24.23:722][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2021.04.11-05.24.23:807][  7]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.11-05.25.13:615][969]LogMaterial: Display: Missing cached shader map for material Chunks01_Mat, compiling. 
+[2021.04.11-05.25.13:643][969]LogMaterial: Display: Missing cached shader map for material Crack02_Mat, compiling. 
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.04.11-05.25.13:716][969]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 60
+[2021.04.11-05.25.13:716][969]LogMaterial: Display: Missing cached shader map for material Flash01_Mat, compiling. 
+[2021.04.11-05.25.13:731][969]LogMaterial: Display: Missing cached shader map for material hit_mark_mat, compiling. 
+[2021.04.11-05.25.13:745][969]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2021.04.11-05.25.13:772][969]LogMaterial: Display: Missing cached shader map for material lightning_Mat, compiling. 
+[2021.04.11-05.25.13:787][969]LogMaterial: Display: Missing cached shader map for material M_Char01, compiling. 
+[2021.04.11-05.25.13:800][969]LogMaterial: Display: Missing cached shader map for material M_Char01, compiling. 
+[2021.04.11-05.25.13:815][969]LogMaterial: Display: Missing cached shader map for material M_fresnel_sphere01, compiling. 
+[2021.04.11-05.25.13:837][969]LogMaterial: Display: Missing cached shader map for material M_sphere01, compiling. 
+[2021.04.11-05.25.13:847][969]LogMaterial: Display: Missing cached shader map for material m_spiral01, compiling. 
+[2021.04.11-05.25.13:859][969]LogMaterial: Display: Missing cached shader map for material Ring01_2_Mat, compiling. 
+[2021.04.11-05.25.13:872][969]LogMaterial: Display: Missing cached shader map for material Ring01_Mat, compiling. 
+[2021.04.11-05.25.13:885][969]LogMaterial: Display: Missing cached shader map for material Ring02_Mat, compiling. 
+[2021.04.11-05.25.13:900][969]LogMaterial: Display: Missing cached shader map for material Shape01_Mat, compiling. 
+[2021.04.11-05.25.13:912][969]LogMaterial: Display: Missing cached shader map for material Spike01_Mat, compiling. 
+[2021.04.11-05.25.13:924][969]LogMaterial: Display: Missing cached shader map for material Spike02_Mat, compiling. 
+[2021.04.11-05.25.13:939][969]LogMaterial: Display: Missing cached shader map for material Spikes02_Mat, compiling. 
+[2021.04.11-05.25.13:954][969]LogMaterial: Display: Missing cached shader map for material Swirl01_Mat, compiling. 
+[2021.04.11-05.25.14:627][ 16]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 384
+[2021.04.11-05.25.14:733][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 374
+[2021.04.11-05.25.14:741][ 30]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 364
+[2021.04.11-05.25.14:834][ 41]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 354
+[2021.04.11-05.25.14:866][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 344
+[2021.04.11-05.25.15:061][ 57]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 334
+[2021.04.11-05.25.15:477][ 68]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.11-05.25.17:987][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 324
+[2021.04.11-05.25.17:987][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.17:988][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.17:988][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.18:029][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.18:030][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.18:042][ 68]LogNiagara: Display: [AssetLog] C:\Users\Ashif\Desktop\test\FX\Content\effect\Attack03\AttackFX.uasset: 
+[2021.04.11-05.25.19:319][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 314
+[2021.04.11-05.25.19:594][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 304
+[2021.04.11-05.25.20:156][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Chunks01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Chunks01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.20:163][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Chunks01_Mat092A8C08460408717FD3D290DC5D9A77.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Chunks01_Mat.uasset'
+[2021.04.11-05.25.20:174][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Crack01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.20:180][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Crack01_Mat8F71B93A498AE7D4563EF0BD5BBBF384.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack01_Mat.uasset'
+[2021.04.11-05.25.22:415][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 294
+[2021.04.11-05.25.23:531][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 284
+[2021.04.11-05.25.24:090][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 274
+[2021.04.11-05.25.26:321][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 264
+[2021.04.11-05.25.26:321][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 254
+[2021.04.11-05.25.26:880][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 244
+[2021.04.11-05.25.27:438][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 234
+[2021.04.11-05.25.28:555][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 224
+[2021.04.11-05.25.29:113][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 214
+[2021.04.11-05.25.29:113][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 204
+[2021.04.11-05.25.29:676][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 194
+[2021.04.11-05.25.29:676][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 184
+[2021.04.11-05.25.29:676][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 174
+[2021.04.11-05.25.29:795][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Crack02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack02_Mat.uasset" SILENT=true
+[2021.04.11-05.25.29:804][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Crack02_MatFB8C1F2B45F516B5223B13B78DFA48ED.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack02_Mat.uasset'
+[2021.04.11-05.25.29:815][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Flash01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Flash01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.29:821][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Flash01_Mat30CFC8794CBBC36E4F6991A49D719392.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Flash01_Mat.uasset'
+[2021.04.11-05.25.29:838][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/hit_mark_mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/hit_mark_mat.uasset" SILENT=true
+[2021.04.11-05.25.29:846][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/hit_mark_matB15B38854C914163C9E829B55EC6910F.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/hit_mark_mat.uasset'
+[2021.04.11-05.25.29:860][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lambert1" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/lambert1.uasset" SILENT=true
+[2021.04.11-05.25.29:866][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/lambert150995B794DEF167981D5FB8C13D43FF1.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/lambert1.uasset'
+[2021.04.11-05.25.29:880][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lightning_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/lightning_Mat.uasset" SILENT=true
+[2021.04.11-05.25.29:902][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/lightning_Mat245FA0084E5DBDC7FDDC80850A0A19F7.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/lightning_Mat.uasset'
+[2021.04.11-05.25.30:440][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 164
+[2021.04.11-05.25.30:440][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 154
+[2021.04.11-05.25.30:468][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char01.uasset" SILENT=true
+[2021.04.11-05.25.30:477][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Char01C41637F44B33C43BCE0B9FB8C4F1B783.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char01.uasset'
+[2021.04.11-05.25.30:493][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Floor01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Floor01.uasset" SILENT=true
+[2021.04.11-05.25.30:501][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Floor0145F7CD734C57D21A01C361A15A3A35CE.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Floor01.uasset'
+[2021.04.11-05.25.30:502][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/attack/M_Floor01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/attack/M_Floor01.uasset" SILENT=true
+[2021.04.11-05.25.30:503][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Floor0122E08C29499BE2B56E648D9D2BA3A897.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/attack/M_Floor01.uasset'
+[2021.04.11-05.25.32:170][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 144
+[2021.04.11-05.25.32:170][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 134
+[2021.04.11-05.25.32:573][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 124
+[2021.04.11-05.25.32:573][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 114
+[2021.04.11-05.25.32:602][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_fresnel_sphere01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_fresnel_sphere01.uasset" SILENT=true
+[2021.04.11-05.25.32:609][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_fresnel_sphere018AB34C704CAFDEDD70C65B800CD80214.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_fresnel_sphere01.uasset'
+[2021.04.11-05.25.32:621][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_radial_soft_add" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_radial_soft_add.uasset" SILENT=true
+[2021.04.11-05.25.32:628][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_radial_soft_addEC6BE1A942D977FB777028B27935F2B0.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_radial_soft_add.uasset'
+[2021.04.11-05.25.32:641][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_smoke01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset" SILENT=true
+[2021.04.11-05.25.32:650][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_smoke01FEE24177478A811A79532AAB8EB4D914.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset'
+[2021.04.11-05.25.33:014][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 104
+[2021.04.11-05.25.33:014][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 94
+[2021.04.11-05.25.33:029][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_sphere01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_sphere01.uasset" SILENT=true
+[2021.04.11-05.25.33:038][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_sphere01355A6D0140C52797E190D2A5200866AF.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_sphere01.uasset'
+[2021.04.11-05.25.33:588][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 84
+[2021.04.11-05.25.33:611][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_spiral01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset" SILENT=true
+[2021.04.11-05.25.33:622][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_spiral01C42B034A4F70B68643C8CDAE13B25AAC.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset'
+[2021.04.11-05.25.34:182][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 74
+[2021.04.11-05.25.34:939][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2021.04.11-05.25.34:959][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring01_2_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_2_Mat.uasset" SILENT=true
+[2021.04.11-05.25.34:965][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring01_2_Mat6EA8ECDB460C0E70E4F969907B1B9EC4.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_2_Mat.uasset'
+[2021.04.11-05.25.35:736][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2021.04.11-05.25.35:736][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2021.04.11-05.25.35:751][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.35:756][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring01_Mat0D8A949A4BD3926477B2F59A68C74B6D.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_Mat.uasset'
+[2021.04.11-05.25.36:160][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2021.04.11-05.25.36:160][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 35
+[2021.04.11-05.25.36:177][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring02_Mat.uasset" SILENT=true
+[2021.04.11-05.25.36:186][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring02_Mat5AE1137A4F5E9628F0050EB86139E133.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring02_Mat.uasset'
+[2021.04.11-05.25.36:745][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 30
+[2021.04.11-05.25.36:876][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.04.11-05.25.36:910][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Shape01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Shape01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.36:920][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Shape01_MatB01DE5774F3A9E13A0100883FF7A8380.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Shape01_Mat.uasset'
+[2021.04.11-05.25.37:480][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2021.04.11-05.25.38:020][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2021.04.11-05.25.38:020][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2021.04.11-05.25.38:020][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.04.11-05.25.38:020][ 68]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.04.11-05.25.38:039][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spike01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.38:045][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spike01_Mat2868133F48B19731C16E70AEB71820D8.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike01_Mat.uasset'
+[2021.04.11-05.25.38:335][ 68]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.04.11-05.25.38:335][ 68]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.04.11-05.25.38:335][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.04.11-05.25.38:341][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.04.11-05.25.38:350][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spike02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike02_Mat.uasset" SILENT=true
+[2021.04.11-05.25.38:356][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spike02_MatD2724B5C41CE2E7F6EEAE2A27D948C71.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike02_Mat.uasset'
+[2021.04.11-05.25.38:442][ 68]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.04.11-05.25.38:442][ 68]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.04.11-05.25.38:454][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spikes02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spikes02_Mat.uasset" SILENT=true
+[2021.04.11-05.25.38:461][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spikes02_Mat87D2A62B40B23073306070A502F57B86.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spikes02_Mat.uasset'
+[2021.04.11-05.25.39:019][ 68]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.11-05.25.39:019][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.11-05.25.39:140][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Swirl01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Swirl01_Mat.uasset" SILENT=true
+[2021.04.11-05.25.39:146][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Swirl01_Mat86268A9847024F37CBB9F9BA9FDB3DBF.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Swirl01_Mat.uasset'
+[2021.04.11-05.25.39:335][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.11-05.25.39:341][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.25.39:347][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.25.39:353][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.04.11-05.25.39:358][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.25.39:364][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.25.39:370][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.11-05.25.39:377][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.11-05.25.39:384][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.11-05.25.39:390][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.25.39:396][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.25.39:401][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.11-05.25.39:407][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.25.39:413][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.11-05.25.39:419][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.11-05.25.39:426][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.04.11-05.25.39:432][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.11-05.25.39:438][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.11-05.25.39:443][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.04.11-05.25.39:449][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.25.39:454][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.11-05.25.39:466][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.11-05.25.39:471][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.25.39:496][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.25.41:555][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFXA9070CC04164E351EF103D9B12ECDE0A.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.25.41:585][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/Sm_Cyl_twisted01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/Sm_Cyl_twisted01.uasset" SILENT=true
+[2021.04.11-05.25.41:606][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Sm_Cyl_twisted017876CBC04FE8E2D4377E448753987F2F.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/Sm_Cyl_twisted01.uasset'
+[2021.04.11-05.25.41:618][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Projectile01/SM_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Projectile01/SM_Char01.uasset" SILENT=true
+[2021.04.11-05.25.41:629][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char01C5597DCC4FFEA9E272DFDDAC735FBC29.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Projectile01/SM_Char01.uasset'
+[2021.04.11-05.25.41:642][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/AOE01/SM_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset" SILENT=true
+[2021.04.11-05.25.41:649][ 68]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char01D74672EA41329630AC5A75A2579AA416.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset'
+[2021.04.11-05.25.41:741][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Chunks01_Mat.Chunks01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Crack01_Mat.Crack01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Crack02_Mat.Crack02_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Flash01_Mat.Flash01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/hit_mark_mat.hit_mark_mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/lambert1.lambert1
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/lightning_Mat.lightning_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/M_Char01.M_Char01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/M_Floor01.M_Floor01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/M_fresnel_sphere01.M_fresnel_sphere01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/m_radial_soft_add.m_radial_soft_add
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/m_smoke01.m_smoke01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/M_sphere01.M_sphere01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/m_spiral01.m_spiral01
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Ring01_2_Mat.Ring01_2_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Ring01_Mat.Ring01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Ring02_Mat.Ring02_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Shape01_Mat.Shape01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Spike01_Mat.Spike01_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Spike02_Mat.Spike02_Mat
+[2021.04.11-05.25.41:741][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Spikes02_Mat.Spikes02_Mat
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating Material /Game/Materials/Swirl01_Mat.Swirl01_Mat
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating StaticMesh /Game/effect/Attack03/Sm_Cyl_twisted01.Sm_Cyl_twisted01
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating StaticMesh /Game/effect/Projectile01/SM_Char01.SM_Char01
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating NiagaraSystem /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating StaticMesh /Game/effect/AOE01/SM_Char01.SM_Char01
+[2021.04.11-05.25.41:742][ 68]LogContentValidation: Display: Validating ObjectRedirector /Game/effect/attack/M_Floor01.M_Floor01
+[2021.04.11-05.25.43:700][299]LogSlate: Window 'Failed Renames' being destroyed
+[2021.04.11-05.25.46:669][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/AOE01/M_Char02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/M_Char02.uasset" SILENT=true
+[2021.04.11-05.25.46:674][647]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Char0237C2211448440BBAB98F5D97B817677B.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/M_Char02.uasset'
+[2021.04.11-05.25.46:717][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.11-05.25.46:728][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.11-05.25.46:733][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.25.46:746][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/AOE01/SM_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset" SILENT=true
+[2021.04.11-05.25.46:751][647]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char0159B93B8F4F7F9DA3E1019FAD6A84A7B5.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset'
+[2021.04.11-05.25.46:769][647]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.25.46:769][647]LogContentValidation: Display: Validating Material /Game/effect/AOE01/M_Char02.M_Char02
+[2021.04.11-05.25.46:769][647]LogContentValidation: Display: Validating StaticMesh /Game/effect/AOE01/SM_Char01.SM_Char01
+[2021.04.11-05.25.49:037][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Char02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char02.uasset" SILENT=true
+[2021.04.11-05.25.49:041][906]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Char024ABF356E432EBA5254339087D8B99C09.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char02.uasset'
+[2021.04.11-05.25.49:084][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.11-05.25.49:094][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.11-05.25.49:100][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.25.49:113][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/AOE01/SM_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset" SILENT=true
+[2021.04.11-05.25.49:118][906]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char0141B006A046803F4E233A4BA4F8E28BA5.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/SM_Char01.uasset'
+[2021.04.11-05.25.49:140][906]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.25.49:140][906]LogContentValidation: Display: Validating Material /Game/Materials/M_Char02.M_Char02
+[2021.04.11-05.25.49:140][906]LogContentValidation: Display: Validating StaticMesh /Game/effect/AOE01/SM_Char01.SM_Char01
+[2021.04.11-05.26.05:429][841]LogMetaData: Removing '/Game/effect/Projectile01/SM_Char02.SM_Char02' ref from Metadata '/Game/effect/Projectile01/SM_Char01.PackageMetaData'
+[2021.04.11-05.26.05:502][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Projectile01/SM_Char02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Projectile01/SM_Char02.uasset" SILENT=true
+[2021.04.11-05.26.05:513][841]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char02331819314C68C6CE5AFB528009DD9852.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Projectile01/SM_Char02.uasset'
+[2021.04.11-05.26.05:551][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.11-05.26.05:562][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.11-05.26.05:567][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.05:581][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.07:625][841]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFX7FACC57D4B09537625B62DB82F3EC25D.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.26.07:665][841]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.07:665][841]LogContentValidation: Display: Validating StaticMesh /Game/effect/Projectile01/SM_Char02.SM_Char02
+[2021.04.11-05.26.07:665][841]LogContentValidation: Display: Validating NiagaraSystem /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.26.10:218][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/ParagonPhase/FX/Meshes/Shapes/SM_Sphere2" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/ParagonPhase/FX/Meshes/Shapes/SM_Sphere2.uasset" SILENT=true
+[2021.04.11-05.26.10:229][135]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Sphere2C5682AAE4C3CAAA72C6A3A8CEE18321B.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/ParagonPhase/FX/Meshes/Shapes/SM_Sphere2.uasset'
+[2021.04.11-05.26.10:266][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.10:279][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.11-05.26.10:284][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.10:296][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.12:335][135]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFXD50EB5414267B58592C829BAD02FA9AA.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.26.12:362][135]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.12:362][135]LogContentValidation: Display: Validating StaticMesh /Game/effect/ParagonPhase/FX/Meshes/Shapes/SM_Sphere2.SM_Sphere2
+[2021.04.11-05.26.12:362][135]LogContentValidation: Display: Validating NiagaraSystem /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.26.15:483][486]LogMetaData: Removing '/Game/Meshes/SM_Char01.SM_Char01' ref from Metadata '/Game/effect/AOE01/SM_Char01.PackageMetaData'
+[2021.04.11-05.26.15:483][486]LogMetaData: Removing '/Game/Meshes/SM_Char02.SM_Char02' ref from Metadata '/Game/effect/Projectile01/SM_Char02.PackageMetaData'
+[2021.04.11-05.26.15:538][486]LogMetaData: Removing '/Game/Meshes/Sm_Cyl_twisted01.Sm_Cyl_twisted01' ref from Metadata '/Game/effect/Attack03/Sm_Cyl_twisted01.PackageMetaData'
+[2021.04.11-05.26.15:698][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Sphere2" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Sphere2.uasset" SILENT=true
+[2021.04.11-05.26.15:707][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Sphere2D600749942C6DF69E3B4CABC70B4D994.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Sphere2.uasset'
+[2021.04.11-05.26.15:716][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Char01.uasset" SILENT=true
+[2021.04.11-05.26.15:723][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char01C836E3404E99A80855FD67994CD71294.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Char01.uasset'
+[2021.04.11-05.26.15:731][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/SM_Char02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Char02.uasset" SILENT=true
+[2021.04.11-05.26.15:743][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/SM_Char0271A4DA534B4DC9FB762BA5B78AC2FC1C.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Meshes/SM_Char02.uasset'
+[2021.04.11-05.26.15:751][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Sm_Cyl_twisted01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Meshes/Sm_Cyl_twisted01.uasset" SILENT=true
+[2021.04.11-05.26.15:774][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Sm_Cyl_twisted0195B74C8E46E608B182B1A08357E5ADEA.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Meshes/Sm_Cyl_twisted01.uasset'
+[2021.04.11-05.26.15:783][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/sm_sphere" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Meshes/sm_sphere.uasset" SILENT=true
+[2021.04.11-05.26.15:844][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/sm_sphereB8D9FDC5439F572243D5288C5EBC6E44.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Meshes/sm_sphere.uasset'
+[2021.04.11-05.26.15:900][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.11-05.26.15:906][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.11-05.26.15:911][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.11-05.26.15:917][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.15:922][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.15:932][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.11-05.26.15:937][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.15:946][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.18:010][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFX8E8F8BEA4F11D755AFAD9F8A858E3FD4.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.26.18:014][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Char01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char01.uasset" SILENT=true
+[2021.04.11-05.26.18:016][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_Char01A5B2E0624A6C4A34747C48BF69F4EC6C.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_Char01.uasset'
+[2021.04.11-05.26.18:017][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_spiral01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset" SILENT=true
+[2021.04.11-05.26.18:020][486]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_spiral011AC329C94E178D4A4369D08FD4EADBF5.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset'
+[2021.04.11-05.26.18:051][486]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating Material /Game/Materials/M_Char01.M_Char01
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating Material /Game/Materials/m_spiral01.m_spiral01
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Sm_Cyl_twisted01.Sm_Cyl_twisted01
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Sphere2.SM_Sphere2
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/sm_sphere.sm_sphere
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Char02.SM_Char02
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating NiagaraSystem /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.26.18:051][486]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/SM_Char01.SM_Char01
+[2021.04.11-05.26.25:418][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/AOE01/T_Noise012" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/T_Noise012.uasset" SILENT=true
+[2021.04.11-05.26.25:428][358]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Noise01269482AD243D6329BD2334CAB50396131.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/AOE01/T_Noise012.uasset'
+[2021.04.11-05.26.25:468][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.11-05.26.25:477][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.11-05.26.25:483][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.25:496][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_smoke01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset" SILENT=true
+[2021.04.11-05.26.25:499][358]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_smoke015454FA10411E376FE8CA8489583EC84C.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset'
+[2021.04.11-05.26.25:515][358]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.25:515][358]LogContentValidation: Display: Validating Texture2D /Game/effect/AOE01/T_Noise012.T_Noise012
+[2021.04.11-05.26.25:515][358]LogContentValidation: Display: Validating Material /Game/Materials/m_smoke01.m_smoke01
+[2021.04.11-05.26.30:466][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Aura" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Aura.uasset" SILENT=true
+[2021.04.11-05.26.30:479][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_AuraAC23AFDE49B50334AF9C46B47A6BF604.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Aura.uasset'
+[2021.04.11-05.26.30:483][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Chunks01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Chunks01.uasset" SILENT=true
+[2021.04.11-05.26.30:489][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Chunks01A725268844DEADC7B5AE678358237FE3.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Chunks01.uasset'
+[2021.04.11-05.26.30:492][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Crack01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Crack01.uasset" SILENT=true
+[2021.04.11-05.26.30:498][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Crack01E698C6EA4E75A553E9CBC6B9AFF566DB.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Crack01.uasset'
+[2021.04.11-05.26.30:501][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Crack02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Crack02.uasset" SILENT=true
+[2021.04.11-05.26.30:506][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Crack022561332B45DCF0A3DC6BD78AC7CFD18B.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Crack02.uasset'
+[2021.04.11-05.26.30:509][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Flash01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Flash01.uasset" SILENT=true
+[2021.04.11-05.26.30:513][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Flash0100E69AB344FD1C04F16CE4935A0B8614.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Flash01.uasset'
+[2021.04.11-05.26.30:516][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Hit_mark01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Hit_mark01.uasset" SILENT=true
+[2021.04.11-05.26.30:521][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Hit_mark01F6FA2D0D418D08A6E5E29088C9841600.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Hit_mark01.uasset'
+[2021.04.11-05.26.30:524][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_lightning" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_lightning.uasset" SILENT=true
+[2021.04.11-05.26.30:529][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_lightningFDFDF44B4B7104E8F9CA06A5AD3A8EAE.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_lightning.uasset'
+[2021.04.11-05.26.30:534][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Noise01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise01.uasset" SILENT=true
+[2021.04.11-05.26.30:544][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Noise017FC04EE04D84725EAC3405953389D9A4.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise01.uasset'
+[2021.04.11-05.26.30:549][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Noise012" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise012.uasset" SILENT=true
+[2021.04.11-05.26.30:559][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Noise012B04BBC754CCD376F3E3C78A353F87F12.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise012.uasset'
+[2021.04.11-05.26.30:564][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Noise_N" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise_N.uasset" SILENT=true
+[2021.04.11-05.26.30:576][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Noise_N03952BDB4368E52EC76D7AA6855458D1.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Noise_N.uasset'
+[2021.04.11-05.26.30:580][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ring01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Ring01.uasset" SILENT=true
+[2021.04.11-05.26.30:587][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Ring01DCA4DBD7453BB7BD251C91B5947017F7.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Ring01.uasset'
+[2021.04.11-05.26.30:590][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Ring01_2" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Ring01_2.uasset" SILENT=true
+[2021.04.11-05.26.30:596][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Ring01_2E2516AFF45934D26B2583EA52E1B6DC2.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Ring01_2.uasset'
+[2021.04.11-05.26.30:599][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Shape01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Shape01.uasset" SILENT=true
+[2021.04.11-05.26.30:604][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Shape0164C0911E407E8C8ECC77E9B33C9C24AB.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Shape01.uasset'
+[2021.04.11-05.26.30:606][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Spike01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spike01.uasset" SILENT=true
+[2021.04.11-05.26.30:612][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Spike01FD485B1D4A70B525317E039CBD4A478C.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spike01.uasset'
+[2021.04.11-05.26.30:615][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Spike02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spike02.uasset" SILENT=true
+[2021.04.11-05.26.30:620][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Spike026C583500435BA20EEE824BACC12C1E12.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spike02.uasset'
+[2021.04.11-05.26.30:623][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Spikes02" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spikes02.uasset" SILENT=true
+[2021.04.11-05.26.30:628][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Spikes02FF9C199B42E01DFE9EAA038D9F88D054.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Spikes02.uasset'
+[2021.04.11-05.26.30:631][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Swirl01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Swirl01.uasset" SILENT=true
+[2021.04.11-05.26.30:637][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/T_Swirl014D07812E44832C3046EF10B3F891CFCE.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Textures/T_Swirl01.uasset'
+[2021.04.11-05.26.30:767][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.11-05.26.30:773][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:779][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.30:784][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.30:790][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.30:796][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.26.30:802][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.11-05.26.30:808][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.26.30:814][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.04.11-05.26.30:819][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:825][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:829][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:834][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:840][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:845][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:850][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:855][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:864][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.11-05.26.30:869][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.30:894][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_spiral01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset" SILENT=true
+[2021.04.11-05.26.30:898][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_spiral01959140D84E2E6C8D1AC176AA72603D55.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_spiral01.uasset'
+[2021.04.11-05.26.30:899][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Chunks01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Chunks01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.30:901][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Chunks01_Mat3CF76DA24B967CB9179DD6A7196ED2DF.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Chunks01_Mat.uasset'
+[2021.04.11-05.26.30:901][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Crack01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.30:902][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Crack01_MatC63B3C6A491A5ACB3DF3C09E06D394B8.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack01_Mat.uasset'
+[2021.04.11-05.26.30:903][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Crack02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack02_Mat.uasset" SILENT=true
+[2021.04.11-05.26.30:906][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Crack02_Mat5D051C9B43866FBD842665A54D747025.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Crack02_Mat.uasset'
+[2021.04.11-05.26.30:908][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.32:973][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFXC47A4DD0441214D5459464BF06178230.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.26.32:976][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Flash01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Flash01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.32:978][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Flash01_MatFF3A91344C9466E934D32AA39EFEEBAE.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Flash01_Mat.uasset'
+[2021.04.11-05.26.32:978][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/hit_mark_mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/hit_mark_mat.uasset" SILENT=true
+[2021.04.11-05.26.32:980][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/hit_mark_mat7CF3C3DD4E5D97AFBA993895F6E36617.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/hit_mark_mat.uasset'
+[2021.04.11-05.26.32:981][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/lightning_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/lightning_Mat.uasset" SILENT=true
+[2021.04.11-05.26.32:982][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/lightning_MatC258D8464C695D04C8DEB8B574437874.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/lightning_Mat.uasset'
+[2021.04.11-05.26.32:983][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spike02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike02_Mat.uasset" SILENT=true
+[2021.04.11-05.26.32:985][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spike02_Mat5924E324421A7E7CF03DA9BF39A6FF14.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike02_Mat.uasset'
+[2021.04.11-05.26.32:985][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_fresnel_sphere01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_fresnel_sphere01.uasset" SILENT=true
+[2021.04.11-05.26.32:987][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_fresnel_sphere01B744B3C1492AEF30FCFB9DB8DF286533.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_fresnel_sphere01.uasset'
+[2021.04.11-05.26.32:988][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Shape01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Shape01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.32:992][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Shape01_Mat67FE07664FD1FADB35C4D1810E5BAFEB.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Shape01_Mat.uasset'
+[2021.04.11-05.26.32:992][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_sphere01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_sphere01.uasset" SILENT=true
+[2021.04.11-05.26.32:994][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/M_sphere014E64C7494A01F9116B718084AD38169F.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/M_sphere01.uasset'
+[2021.04.11-05.26.32:994][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Swirl01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Swirl01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.32:996][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Swirl01_MatD985DB87480CDD69EB8586AABCB60387.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Swirl01_Mat.uasset'
+[2021.04.11-05.26.32:997][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_smoke01" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset" SILENT=true
+[2021.04.11-05.26.32:999][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/m_smoke01563A58D847293285A37DA8A157988143.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/m_smoke01.uasset'
+[2021.04.11-05.26.33:001][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.33:002][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring01_Mat700D99F540925E376A6D9197020A7388.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_Mat.uasset'
+[2021.04.11-05.26.33:003][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring02_Mat.uasset" SILENT=true
+[2021.04.11-05.26.33:004][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring02_Mat7FF62F3046F1D4B6350EEE9FC936A0D2.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring02_Mat.uasset'
+[2021.04.11-05.26.33:005][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ring01_2_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_2_Mat.uasset" SILENT=true
+[2021.04.11-05.26.33:006][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Ring01_2_MatBCFF3DDC47C9057098588AA263F6D286.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Ring01_2_Mat.uasset'
+[2021.04.11-05.26.33:007][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spike01_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike01_Mat.uasset" SILENT=true
+[2021.04.11-05.26.33:008][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spike01_Mat356D98404640DE62638C5BB064B5AB6F.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spike01_Mat.uasset'
+[2021.04.11-05.26.33:009][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Spikes02_Mat" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spikes02_Mat.uasset" SILENT=true
+[2021.04.11-05.26.33:010][927]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/Spikes02_Mat9CB028504643FF91CCB726A5981BD775.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Materials/Spikes02_Mat.uasset'
+[2021.04.11-05.26.33:071][927]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Chunks01.T_Chunks01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Noise01.T_Noise01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Chunks01_Mat.Chunks01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Crack01.T_Crack01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Crack01_Mat.Crack01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Crack02.T_Crack02
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Noise_N.T_Noise_N
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Crack02_Mat.Crack02_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Flash01.T_Flash01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Flash01_Mat.Flash01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Hit_mark01.T_Hit_mark01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/hit_mark_mat.hit_mark_mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_lightning.T_lightning
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/lightning_Mat.lightning_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/M_fresnel_sphere01.M_fresnel_sphere01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Noise012.T_Noise012
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/m_smoke01.m_smoke01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/M_sphere01.M_sphere01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Aura.T_Aura
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/m_spiral01.m_spiral01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Ring01_2.T_Ring01_2
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Ring01_2_Mat.Ring01_2_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Ring01.T_Ring01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Ring01_Mat.Ring01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Ring02_Mat.Ring02_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Shape01.T_Shape01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Shape01_Mat.Shape01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Spike01.T_Spike01
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Spike01_Mat.Spike01_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Spike02.T_Spike02
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Spike02_Mat.Spike02_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Spikes02.T_Spikes02
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Material /Game/Materials/Spikes02_Mat.Spikes02_Mat
+[2021.04.11-05.26.33:071][927]LogContentValidation: Display: Validating Texture2D /Game/Textures/T_Swirl01.T_Swirl01
+[2021.04.11-05.26.33:072][927]LogContentValidation: Display: Validating Material /Game/Materials/Swirl01_Mat.Swirl01_Mat
+[2021.04.11-05.26.33:072][927]LogContentValidation: Display: Validating NiagaraSystem /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.26.36:796][356]LogMetaData: Removing '/Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy_C' ref from Metadata '/Game/effect/Attack03/projectile_attack_dark_energy.PackageMetaData'
+[2021.04.11-05.26.36:796][356]LogMetaData: Removing '/Game/Map/projectile_attack_dark_energy.SKEL_projectile_attack_dark_energy_C:ReceiveBeginPlay' ref from Metadata '/Game/effect/Attack03/projectile_attack_dark_energy.PackageMetaData'
+[2021.04.11-05.26.36:796][356]LogMetaData: Removing '/Game/Map/projectile_attack_dark_energy.SKEL_projectile_attack_dark_energy_C' ref from Metadata '/Game/effect/Attack03/projectile_attack_dark_energy.PackageMetaData'
+[2021.04.11-05.26.36:796][356]LogMetaData: Removing '/Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy_C:ReceiveBeginPlay' ref from Metadata '/Game/effect/Attack03/projectile_attack_dark_energy.PackageMetaData'
+[2021.04.11-05.26.36:813][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/projectile_attack_dark_energy" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.11-05.26.36:821][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.04.11-05.26.36:833][356]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/projectile_attack_dark_energyBCAC1F6641E587A62090D8BD1826ACB9.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap'
+[2021.04.11-05.26.36:834][356]LogFileHelpers: Saving map 'projectile_attack_dark_energy' took 0.022
+[2021.04.11-05.26.36:884][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.11-05.26.36:895][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.11-05.26.36:900][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.26.36:919][356]AssetCheck: New page: Asset Save: projectile_attack_dark_energy
+[2021.04.11-05.26.36:919][356]LogContentValidation: Display: Validating World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.26.41:815][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FX/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/FX/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.43:858][929]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFX069C91764D1622E9611E68B5F34C7F48.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/FX/AttackFX.uasset'
+[2021.04.11-05.26.43:860][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/effect/Attack03/AttackFX" FILE="C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset" SILENT=true
+[2021.04.11-05.26.43:861][929]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/AttackFX8E70EEF84AC5C9987ECDE484CC2A4353.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/effect/Attack03/AttackFX.uasset'
+[2021.04.11-05.26.43:900][929]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.26.43:900][929]LogContentValidation: Display: Validating NiagaraSystem /Game/FX/AttackFX.AttackFX
+[2021.04.11-05.26.43:900][929]LogContentValidation: Display: Validating ObjectRedirector /Game/effect/Attack03/AttackFX.AttackFX
+[2021.04.11-05.26.48:437][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.11-05.26.49:703][468]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.11-05.26.51:580][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/projectile_attack_dark_energy" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.11-05.26.51:588][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.04.11-05.26.51:599][670]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/projectile_attack_dark_energy94B26D2A4ED546C5477E82B221717DC4.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap'
+[2021.04.11-05.26.51:601][670]LogFileHelpers: Saving map 'projectile_attack_dark_energy' took 0.021
+[2021.04.11-05.26.51:614][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.11-05.26.51:717][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.11-05.26.51:723][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.51:733][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.11-05.26.51:738][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.26.51:741][670]AssetCheck: New page: Asset Save: projectile_attack_dark_energy
+[2021.04.11-05.26.51:742][670]LogContentValidation: Display: Validating World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.30.42:199][156]LogMetaData: Removing '/Game/bp/cam_shake_nuke1.cam_shake_nuke1_C' ref from Metadata '/Game/Gallery/bp/cam_shake_nuke1.PackageMetaData'
+[2021.04.11-05.30.42:199][156]LogMetaData: Removing '/Game/bp/cam_shake_nuke1.SKEL_cam_shake_nuke1_C' ref from Metadata '/Game/Gallery/bp/cam_shake_nuke1.PackageMetaData'
+[2021.04.11-05.30.42:217][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bp/cam_shake_nuke1" FILE="C:/Users/Ashif/Desktop/test/FX/Content/bp/cam_shake_nuke1.uasset" SILENT=true
+[2021.04.11-05.30.42:218][156]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/cam_shake_nuke162F8242C46B7FEB9C8BC9AB953868B72.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/bp/cam_shake_nuke1.uasset'
+[2021.04.11-05.30.42:219][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Gallery/bp/cam_shake_nuke1" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Gallery/bp/cam_shake_nuke1.uasset" SILENT=true
+[2021.04.11-05.30.42:220][156]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/cam_shake_nuke131E31807469D01118DC3C888D31FAF40.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Gallery/bp/cam_shake_nuke1.uasset'
+[2021.04.11-05.30.42:245][156]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.11-05.30.42:245][156]LogContentValidation: Display: Validating Blueprint /Game/bp/cam_shake_nuke1.cam_shake_nuke1
+[2021.04.11-05.30.42:245][156]LogContentValidation: Display: Validating ObjectRedirector /Game/Gallery/bp/cam_shake_nuke1.cam_shake_nuke1
+[2021.04.11-05.30.42:245][156]LogContentValidation: Display: Validating ObjectRedirector /Game/Gallery/bp/cam_shake_nuke1.Default__cam_shake_nuke1_C
+[2021.04.11-05.30.42:245][156]LogContentValidation: Display: Validating ObjectRedirector /Game/Gallery/bp/cam_shake_nuke1.cam_shake_nuke1_C
+[2021.04.11-05.30.44:463][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.04.11-05.30.45:750][421]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.11-05.30.47:849][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/projectile_attack_dark_energy" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.11-05.30.47:856][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.11-05.30.47:868][649]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/projectile_attack_dark_energy77B7FEEA4FD078801468FEBDC62E6833.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap'
+[2021.04.11-05.30.47:869][649]LogFileHelpers: Saving map 'projectile_attack_dark_energy' took 0.021
+[2021.04.11-05.30.47:881][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.11-05.30.47:987][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.04.11-05.30.47:997][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.11-05.30.48:002][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.11-05.30.48:007][649]AssetCheck: New page: Asset Save: projectile_attack_dark_energy
+[2021.04.11-05.30.48:007][649]LogContentValidation: Display: Validating World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.30.53:922][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.11-05.30.53:949][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.30.53:949][334]Cmd: MAP LOAD FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.11-05.30.53:949][334]LightingResults: New page: Lighting Build
+[2021.04.11-05.30.53:950][334]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2021.04.11-05.30.53:950][334]LoadErrors: New page: Loading map: projectile_attack_dark_energy.umap
+[2021.04.11-05.30.53:950][334]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.11-05.30.53:950][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.11-05.30.53:950][334]MapCheck: New page: Map Check
+[2021.04.11-05.30.53:950][334]LightingResults: New page: Lighting Build
+[2021.04.11-05.30.53:956][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.11-05.30.53:957][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'projectile_attack_dark_energy'.
+[2021.04.11-05.30.54:120][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.11-05.30.54:121][334]LogAIModule: Creating AISystem for world projectile_attack_dark_energy
+[2021.04.11-05.30.54:128][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.11-05.30.54:132][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.11-05.30.54:133][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2021.04.11-05.30.54:133][334]LogFileHelpers: Loading map 'projectile_attack_dark_energy' took 0.184
+[2021.04.11-05.30.58:627][807]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.04.11-05.31.05:536][597]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.11-05.31.05:540][597]LogSlate: Window 'Project Settings' being destroyed
+[2021.04.11-05.31.10:110][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.31.13:601][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/projectile_attack_dark_energy" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.11-05.31.13:606][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.11-05.31.13:618][522]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/projectile_attack_dark_energyFC028B574219361A328A8E860F543834.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap'
+[2021.04.11-05.31.13:635][522]AssetCheck: New page: Asset Save: projectile_attack_dark_energy
+[2021.04.11-05.31.13:635][522]LogContentValidation: Display: Validating World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.31.13:917][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/projectile_attack_dark_energy" FILE="C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.11-05.31.13:922][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.04.11-05.31.13:934][555]LogSavePackage: Moving 'C:/Users/Ashif/Desktop/test/FX/Saved/projectile_attack_dark_energyD338EDD14638884387EDAE806BD07D84.tmp' to 'C:/Users/Ashif/Desktop/test/FX/Content/Map/projectile_attack_dark_energy.umap'
+[2021.04.11-05.31.13:950][555]AssetCheck: New page: Asset Save: projectile_attack_dark_energy
+[2021.04.11-05.31.13:950][555]LogContentValidation: Display: Validating World /Game/Map/projectile_attack_dark_energy.projectile_attack_dark_energy
+[2021.04.11-05.31.15:866][765]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/FX/AttackFX.AttackFX
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.04.11-05.31.20:594][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 36
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 46
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 45
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2021.04.11-05.31.20:595][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2021.04.11-05.31.20:600][765]LogNiagaraCompiler: Function call "InitialMeshOrientation" is deprecated. Reason:
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading..
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation - 
+[2021.04.11-05.31.20:606][765]LogNiagaraCompiler: Function call "InitialMeshOrientation" is deprecated. Reason:
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading..
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation - 
+[2021.04.11-05.31.20:612][765]LogNiagaraCompiler: Function call "InitialMeshOrientation" is deprecated. Reason:
+This version had a subtle rotation bug when using the "rotation vector" input, in certain edge cases. Most were fine, but consider upgrading this module for future proofing, and double check your rotations are correct after upgrading..
+Please use /Niagara/Modules/Spawn/Orientation/V3/InitialMeshOrientation.InitialMeshOrientation instead. - Node: Initial Mesh Orientation - 
+[2021.04.11-05.31.20:795][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 36
+[2021.04.11-05.31.20:795][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2021.04.11-05.31.20:795][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 34
+[2021.04.11-05.31.20:795][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 25
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2021.04.11-05.31.21:898][765]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.04.11-05.31.21:898][765]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.04.11-05.31.22:830][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.04.11-05.31.22:830][765]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.932 s
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: === Handled ensure: ===
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: 
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: Ensure condition failed: ModuleIndex != INDEX_NONE [File:D:/Build/++UE4/Sync/Engine/Plugins/FX/Niagara/Source/NiagaraEditor/Private/ViewModels/Stack/NiagaraStackModuleItem.cpp] [Line: 607]
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: In system /Game/FX/AttackFX.AttackFX, module AddVelocityInCone (NiagaraNodeFunctionCall_2) did not exist in the stack module data.
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: Stack: 
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: [Callstack] 0x00007fffec50d97f UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: [Callstack] 0x00007fffec1d81af UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: [Callstack] 0x00007fffec2041e1 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: [Callstack] 0x00007fffec19faf9 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:830][765]LogOutputDevice: Error: [Callstack] 0x00007fffec19fcb4 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec19fcb4 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec2c6505 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec190e6d UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec1a1fab UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec19e399 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec19275d UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffec10a1a2 UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffebde698e UE4Editor-NiagaraEditor.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff83f86f631 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff83f8709cd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff83f8706fa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffe7059f8f UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffe705a1b0 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007fffe7047c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d8bb39d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d87a240 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d7db18c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d798f67 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d6f8374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d7e5c67 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff82d7db37b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff848dd2bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff848e56927 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff848e3f4ff UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff848e32df9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff85b01bc7f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff85b009197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff85b01e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff85b004310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff89c91e858 USER32.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff89c91e299 USER32.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff85b01f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff6a86587e7 UE4Editor.exe!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff6a867113c UE4Editor.exe!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff6a867121a UE4Editor.exe!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff6a868527d UE4Editor.exe!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff6a8687faa UE4Editor.exe!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff89d147034 KERNEL32.DLL!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: [Callstack] 0x00007ff89e1a2651 ntdll.dll!UnknownFunction []
+[2021.04.11-05.31.22:831][765]LogOutputDevice: Error: 
