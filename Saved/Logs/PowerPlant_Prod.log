@@ -2625,3 +2625,760 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.03-16.56.24:904][200]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2022.03.03-16.56.26:418][338]LogSlate: Window 'Message Log' being destroyed
 [2022.03.03-16.56.26:423][338]LogSlate: Window 'Message Log' being destroyed
+[2022.03.03-16.58.51:730][168]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.03-16.58.51:735][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.03-16.58.51:735][168]PIE: New page: PIE session: PP_Idle (3 Mar 2022, 18:58:51)
+[2022.03.03-16.58.51:735][168]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PP_Idle
+[2022.03.03-16.58.51:737][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2022.03.03-16.58.51:737][168]LogAIModule: Creating AISystem for world PP_Idle
+[2022.03.03-16.58.51:737][168]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2022.03.03-16.58.51:737][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PP_Idle.PP_Idle to /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle (0.002109s)
+[2022.03.03-16.58.51:746][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.03.03-16.58.51:746][168]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.03-16.58.51:746][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.03-16.58.51:746][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.03-16.58.51:747][168]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.03-16.58.51:747][168]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.03-16.58.51:749][168]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.03-16.58.51:749][168]LogAudioMixer: Display: 1: FrontRight
+[2022.03.03-16.58.51:773][168]LogAudioMixer: Display: Using Audio Device Kopfhörer (Realtek(R) Audio)
+[2022.03.03-16.58.51:773][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.03-16.58.51:773][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.03-16.58.51:773][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.03-16.58.51:774][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.03-16.58.51:774][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.03-16.58.51:774][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.03-16.58.51:787][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.03-16.58.51:787][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.03-16.58.51:787][168]LogInit: FAudioDevice initialized.
+[2022.03.03-16.58.51:787][168]LogAudio: Display: Audio Device (ID: 3) registered with world 'PP_Idle'.
+[2022.03.03-16.58.51:799][168]LogLoad: Game class is 'GameModeBase'
+[2022.03.03-16.58.51:800][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle up for play (max tick rate 0) at 2022.03.03-17.58.51
+[2022.03.03-16.58.51:801][168]LogWorld: Bringing up level for play took: 0.000720
+[2022.03.03-16.58.51:801][168]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.03.03-16.58.51:803][168]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.03.03-16.58.51:803][168]LogOSC: Display: OSCServer 'OSCServer_FSkJtp5tL0Gfinm91RCNVg' Listening: 0.0.0.0:55551.
+[2022.03.03-16.58.51:804][168]PIE: Server logged in
+[2022.03.03-16.58.51:805][168]PIE: Play in editor total start time 0.071 seconds.
+[2022.03.03-16.58.51:805][168]LogBackChannel: Listening on FBackChannelConnection Client Socket (localport: 2049)
+[2022.03.03-16.58.51:805][168]LogRemoteSession: Started listening on port 2049
+[2022.03.03-16.58.52:055][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:056][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:057][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:057][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:057][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:058][169]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:098][172]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:098][172]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:098][172]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:159][175]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:159][175]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:159][175]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:193][176]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:193][176]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:193][176]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:226][177]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:226][177]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:226][177]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:275][180]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:276][180]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:276][180]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:317][185]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:317][185]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:317][185]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:359][190]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:359][190]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:359][190]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:409][196]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:409][196]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:409][196]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:450][201]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:450][201]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:450][201]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:492][206]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:492][206]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:492][206]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:533][211]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:534][211]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:534][211]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:575][216]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:575][216]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:575][216]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:617][221]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:617][221]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:617][221]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:659][226]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:659][226]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:659][226]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:700][231]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:701][231]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:701][231]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:750][237]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:751][237]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:751][237]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:801][243]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:801][243]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:801][243]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:834][247]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:834][247]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:834][247]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:875][252]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:876][252]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:876][252]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:925][258]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:925][258]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:925][258]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:967][263]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.52:967][263]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.52:967][263]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:000][267]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:000][267]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:000][267]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:059][274]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:059][274]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:059][274]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:092][278]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:092][278]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:092][278]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:142][284]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:142][284]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:142][284]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:184][289]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:184][289]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:184][289]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:217][293]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:218][293]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:218][293]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:258][298]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:258][298]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:258][298]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:309][304]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:309][304]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:309][304]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:350][309]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:350][309]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:350][309]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:392][314]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:392][314]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:392][314]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:450][321]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:450][321]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:450][321]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:500][327]LogScript: Warning: Accessed None trying to read property CloudMaster
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:39B0
+[2022.03.03-16.58.53:501][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:501][327]LogScript: Warning: Accessed None trying to read property CloudMaster2
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3A95
+[2022.03.03-16.58.53:501][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:501][327]LogScript: Warning: Accessed None trying to read property CloudMaster3
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3B7A
+[2022.03.03-16.58.53:501][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:501][327]LogScript: Warning: Accessed None trying to read property CloudMaster4
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3C5F
+[2022.03.03-16.58.53:501][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:501][327]LogScript: Warning: Accessed None trying to read property CloudMaster5
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3D44
+[2022.03.03-16.58.53:501][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster6
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3E29
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:39B0
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster2
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3A95
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster3
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3B7A
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster4
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3C5F
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster5
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3D44
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:502][327]LogScript: Warning: Accessed None trying to read property CloudMaster6
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3E29
+[2022.03.03-16.58.53:502][327]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:509][328]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:509][328]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:509][328]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:559][334]LogScript: Warning: Accessed None trying to read property CloudMaster
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:39B0
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]LogScript: Warning: Accessed None trying to read property CloudMaster2
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3A95
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]LogScript: Warning: Accessed None trying to read property CloudMaster3
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3B7A
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]LogScript: Warning: Accessed None trying to read property CloudMaster4
+	OSCReceiver_C /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle:PersistentLevel.OSCReceiver_2
+	Function /Game/OSCReceiver.OSCReceiver_C:ExecuteUbergraph_OSCReceiver:3C5F
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:559][334]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:560][334]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:560][334]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:560][334]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:625][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:625][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:625][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:626][342]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:626][342]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:626][342]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:667][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:667][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:667][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:667][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:667][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:668][347]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:668][347]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:668][347]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:717][353]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:718][353]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:718][353]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:718][353]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:775][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:776][360]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:776][360]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:776][360]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:825][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:826][366]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:826][366]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:826][366]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:884][373]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:884][373]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:884][373]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:933][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:934][379]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:934][379]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:934][379]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:992][386]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.53:993][386]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.53:993][386]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.53:993][386]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:042][392]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:042][392]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:042][392]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:092][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:093][398]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:093][398]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:093][398]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:142][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:142][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:142][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:142][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:143][404]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:143][404]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:143][404]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:200][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:201][411]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:209][412]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:209][412]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:209][412]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:259][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:260][418]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:267][419]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:267][419]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:267][419]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:308][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:308][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:308][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:308][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:308][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:309][424]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:309][424]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:309][424]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:375][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:376][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:376][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:376][432]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:376][432]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:376][432]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:434][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:458][442]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:458][442]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:458][442]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:484][445]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:484][445]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:484][445]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:525][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:526][450]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:526][450]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:526][450]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:575][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:576][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:584][457]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:584][457]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:584][457]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:626][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:627][462]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:627][462]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:627][462]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:683][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:684][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:684][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:684][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:684][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:684][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:708][472]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:708][472]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:708][472]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:733][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:734][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:735][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:735][475]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:735][475]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:735][475]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:809][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:810][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:810][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:810][484]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:810][484]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:810][484]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:841][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:842][488]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:842][488]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:842][488]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:892][494]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:892][494]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:893][494]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.54:951][501]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.54:951][501]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.54:951][501]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:000][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:000][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:000][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:000][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:001][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:001][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:001][507]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:001][507]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:001][507]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:059][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:060][514]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:060][514]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:060][514]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster2". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster3". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster4". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster5". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CloudMaster6". Blueprint:  OSCReceiver Function:  Execute Ubergraph OSCReceiver Graph:  EventGraph Node:  SetActorLocation
+[2022.03.03-16.58.55:134][523]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:134][523]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:134][523]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:192][530]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:192][530]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:192][530]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:233][535]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:233][535]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:233][535]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:275][540]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:275][540]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:275][540]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:309][544]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:309][544]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:309][544]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:359][550]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:359][550]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:359][550]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:409][556]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:409][556]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:409][556]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:459][562]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:459][562]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:459][562]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:501][567]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:501][567]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:501][567]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:542][572]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:542][572]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:542][572]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:617][581]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:617][581]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:617][581]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:650][585]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:650][585]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:650][585]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:676][588]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:676][588]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:676][588]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:726][594]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:726][594]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:726][594]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:759][598]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:759][598]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:759][598]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:809][604]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:809][604]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:809][604]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:859][610]PIE: Warning: The widget 'UI_TemperatureWidget_C' was already added to the screen.
+[2022.03.03-16.58.55:859][610]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:859][610]PIE: Warning: The widget 'UI_RainExtraUI_C' was already added to the screen.
+[2022.03.03-16.58.55:908][616]LogNet: Browse: /Game/Levels/PP_Idle
+[2022.03.03-16.58.55:908][616]LogLoad: LoadMap: /Game/Levels/PP_Idle
+[2022.03.03-16.58.55:908][616]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PP_Idle
+[2022.03.03-16.58.55:908][616]LogWorld: UWorld::CleanupWorld for PP_Idle, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-16.58.55:908][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-16.58.55:951][616]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.03-16.58.55:952][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.03.03-16.58.55:953][616]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_PP_Idle
+[2022.03.03-16.58.55:955][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001257s)
+[2022.03.03-16.58.55:955][616]LogAIModule: Creating AISystem for world PP_Idle
+[2022.03.03-16.58.55:955][616]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2022.03.03-16.58.55:955][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/PP_Idle.PP_Idle to /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle (0.002145s)
+[2022.03.03-16.58.55:955][616]LogAudio: Display: Audio Device (ID: 3) registered with world 'PP_Idle'.
+[2022.03.03-16.58.55:956][616]LogLoad: Game class is 'GameModeBase'
+[2022.03.03-16.58.55:956][616]LogWorld: Bringing World /Game/Levels/UEDPIE_0_PP_Idle.PP_Idle up for play (max tick rate 0) at 2022.03.03-17.58.55
+[2022.03.03-16.58.55:957][616]LogWorld: Bringing up level for play took: 0.000573
+[2022.03.03-16.58.55:958][616]LogOSC: Warning: Outer object not set.  OSCServer may be garbage collected if not referenced.
+[2022.03.03-16.58.55:959][616]LogOSC: Display: OSCServer 'OSCServer_beeaNDcJuEite8MY1_OMXQ' Listening: 0.0.0.0:55551.
+[2022.03.03-16.58.55:960][616]LogLoad: Took 0.051968 seconds to LoadMap(/Game/Levels/UEDPIE_0_PP_Idle)
+[2022.03.03-16.58.58:142][870]LogBackChannel: Closing connection FBackChannelConnection Client Socket
+[2022.03.03-16.58.58:143][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-16.58.58:143][870]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_PP_Idle
+[2022.03.03-16.58.58:143][870]LogWorld: UWorld::CleanupWorld for PP_Idle, bSessionEnded=true, bCleanupResources=true
+[2022.03.03-16.58.58:143][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-16.58.58:150][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.03-16.58.58:153][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.03-16.58.58:160][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.03-16.58.58:160][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-16.58.58:161][870]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.03-16.58.58:178][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.03-16.58.58:270][871]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.03.03-16.59.00:576][ 75]LogSlate: Window 'Message Log' being destroyed
+[2022.03.03-16.59.00:612][ 75]LogSlate: Window 'Message Log' being destroyed
+[2022.03.03-16.59.03:295][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.03.03-16.59.24:916][559]LogTemp: Repeating last play command: Standalone Game
+[2022.03.03-16.59.24:927][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.03.03-16.59.58:281][511]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sounds/Idle/Idle_Queue_AmbientSound.Idle_Queue_AmbientSound
+[2022.03.03-16.59.58:433][511]LogSlate: Took 0.000399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.03.03-17.00.11:614][ 90]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.03-17.00.15:329][486]LogAssetEditorSubsystem: Opening Asset editor for SoundAttenuation /Game/ATT_Idle.ATT_Idle
+[2022.03.03-17.00.21:741][240]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Idle_Queue_AmbientSound)
+[2022.03.03-17.01.01:130][789]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cam_Idle.Cam_Idle
+[2022.03.03-17.01.01:220][789]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.03-17.01.57:119][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ATT_Idle" FILE="../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/ATT_Idle.uasset" SILENT=true
+[2022.03.03-17.01.57:123][989]LogSavePackage: Moving '../../../../../../Users/ciao/Documents/PowerPlant_backup/Saved/ATT_IdleEEACFACD49E32A430CD424BA749A1328.tmp' to '../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/ATT_Idle.uasset'
+[2022.03.03-17.01.57:136][989]AssetCheck: New page: Asset Save: ATT_Idle
+[2022.03.03-17.01.57:136][989]LogContentValidation: Display: Validating SoundAttenuation /Game/ATT_Idle.ATT_Idle
+[2022.03.03-17.01.58:291][ 95]LogTemp: Repeating last play command: Standalone Game
+[2022.03.03-17.01.58:306][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.03.03-17.02.00:237][ 95]LogSlate: Window 'Save Content' being destroyed
+[2022.03.03-17.02.00:267][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Idle/Idle_Queue_AmbientSound" FILE="../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Sounds/Idle/Idle_Queue_AmbientSound.uasset" SILENT=true
+[2022.03.03-17.02.00:268][ 95]LogSavePackage: Moving '../../../../../../Users/ciao/Documents/PowerPlant_backup/Saved/Idle_Queue_AmbientSound01D5F11A4F531B90380AC9BA91BFE1BA.tmp' to '../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Sounds/Idle/Idle_Queue_AmbientSound.uasset'
+[2022.03.03-17.02.00:269][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/PP_Idle" FILE="../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Levels/PP_Idle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.03-17.02.00:294][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.03.03-17.02.00:304][ 95]LogSavePackage: Moving '../../../../../../Users/ciao/Documents/PowerPlant_backup/Saved/PP_Idle9F0998044A4DE2D3D633EE9ADFC9F335.tmp' to '../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Levels/PP_Idle.umap'
+[2022.03.03-17.02.00:312][ 95]LogFileHelpers: Saving map 'PP_Idle' took 0.043
+[2022.03.03-17.02.00:382][ 96]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.03-17.02.00:382][ 96]LogContentValidation: Display: Validating World /Game/Levels/PP_Idle.PP_Idle
+[2022.03.03-17.02.00:382][ 96]LogContentValidation: Display: Validating SoundCue /Game/Sounds/Idle/Idle_Queue_AmbientSound.Idle_Queue_AmbientSound
+[2022.03.03-17.04.50:691][ 71]LogSlate: Window 'ATT_Idle' being destroyed
+[2022.03.03-17.04.50:694][ 71]LogSlate: Window 'ATT_Idle' being destroyed
+[2022.03.03-17.05.04:615][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cam_Idle" FILE="../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Cam_Idle.uasset" SILENT=true
+[2022.03.03-17.05.04:621][667]LogSavePackage: Moving '../../../../../../Users/ciao/Documents/PowerPlant_backup/Saved/Cam_Idle5671628A41794EB5B314C4BCBC49DF64.tmp' to '../../../../../../Users/ciao/Documents/PowerPlant_backup/Content/Cam_Idle.uasset'
+[2022.03.03-17.05.04:637][667]AssetCheck: New page: Asset Save: Cam_Idle
+[2022.03.03-17.05.04:637][667]LogContentValidation: Display: Validating LevelSequence /Game/Cam_Idle.Cam_Idle
